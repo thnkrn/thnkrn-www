@@ -22,6 +22,12 @@ The main aim of this repo is the playgroud for my experiment or some small featu
 - Pre-commit #1: Uses [Commitlint](https://commitlint.js.org/) for consistent commit messages.
 - Pre-commit #2: Uses [Lint Staged](https://github.com/okonet/lint-staged) to run `npm run lint`, `npm run prettier` and `npm run test:staged` on staged files.
 
+## Deployment
+
+This project, I'm using [Vercel](https://vercel.com/docs) as a deployment and collaboration platform, it will automatically trigger the build when the new commit merge in to master branch
+
+You can visit the website via [Project URL](https://next-ts-playground.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
