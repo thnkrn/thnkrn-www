@@ -19,11 +19,7 @@ if (process.env.ANALYZE === 'true') {
   )
 }
 
-const basePath = process.env.NODE_ENV === 'production' ? '/homepage' : ''
-
 const nextConfig = {
-  assetPrefix: basePath,
-  basePath,
   future: {
     webpack5: true,
   },
