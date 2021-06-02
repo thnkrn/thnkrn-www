@@ -4,8 +4,9 @@ The main aim of this repo is the playgroud for my experiment or some small featu
 
 ## Playground Structure
 
-- **/next-optimized-images**
-  Since the static site with Next.JS not support the Next/image on the next export
+#### **/next-optimized-images**
+
+- Since the static site with Next.JS not support the Next/image on the next export
   I'm using the [next-optimized-images](https://github.com/cyrilwanner/next-optimized-images) with [react-optimized-image](https://www.npmjs.com/package/react-optimized-image) to be our image component instead
 
 ## Template Structure
