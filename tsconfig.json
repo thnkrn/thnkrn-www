@@ -17,6 +17,7 @@
     "paths": {
       "components/*": ["components/*"],
       "pages/*": ["pages/*"],
+      "public/*": ["../public/*"],
       "test/*": ["test/*"]
     },
     "resolveJsonModule": true,

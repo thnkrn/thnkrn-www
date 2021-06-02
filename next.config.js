@@ -1,5 +1,15 @@
 const withPlugins = require('next-compose-plugins')
-const nextPlugins = []
+const withOptimizedImages = require('next-optimized-images')
+
+const nextPlugins = [
+  withOptimizedImages,
+  {
+    images: {
+      // Ref: https://github.com/cyrilwanner/next-optimized-images/tree/canary @next.config.js section.
+      handleImages: ['jpeg', 'png'],
+    },
+  },
+]
 
 if (process.env.ANALYZE === 'true') {
   nextPlugins.push(
@@ -9,7 +19,11 @@ if (process.env.ANALYZE === 'true') {
   )
 }
 
+const basePath = process.env.NODE_ENV === 'production' ? '/homepage' : ''
+
 const nextConfig = {
+  assetPrefix: basePath,
+  basePath,
   future: {
     webpack5: true,
   },
@@ -32,7 +46,7 @@ const nextConfig = {
         })
 
         // Ref: https://github.com/vercel/next.js/blob/canary/packages/next/build/webpack-config.ts
-        config.optimization.splitChunks.cacheGroups.framework.test = /(?<!node_modules.*)[/\\]node_modules[/\\](preact\/compat)[/\\]/
+        config.optimization.splitChunks.cacheGroups.framework.test = /(?<!node_modules.*)[/\\]node_modules[/\\](preact|preact\/compat)[/\\]/
       }
     }
 
