@@ -1,20 +1,24 @@
 import { styled } from '@compiled/react'
 import Link from 'next/link'
+import { useEffect, useState } from 'react'
 
 const Nav = styled.nav`
   margin: auto;
-  width: 80%;
   position: sticky;
   top: 0;
-  margin: 32px auto 0;
-  padding: 12px 0;
+  padding: 20px;
   background-color: black;
+  z-index: 1;
+  transition: background-color 0.7s ease;
+
+  &.active {
+    background-color: rgba(29, 29, 31, 1);
+  }
 
   &::after {
     content: '';
     width: 100%;
     height: 80px;
-    background: linear-gradient(180deg, black 50%, hsla(0, 0%, 100%, 0));
     position: absolute;
     z-index: 0;
     top: 0;
@@ -46,25 +50,47 @@ const StyledLink = styled.span`
   }
 `
 
-const Header = () => (
-  <Nav>
-    <StyledContainer>
-      <StyledTitle>THNKRN's website</StyledTitle>
-      <StyledLinkWrapper>
-        <StyledLink>
-          <Link href="/">
-            <a>Home</a>
-          </Link>
-        </StyledLink>
-        &nbsp;/&nbsp;
-        <StyledLink>
-          <Link href="/Playground">
-            <a>Playground</a>
-          </Link>
-        </StyledLink>
-      </StyledLinkWrapper>
-    </StyledContainer>
-  </Nav>
-)
+const Header = () => {
+  const [isNavScroll, setIsNavScroll] = useState(false)
+
+  const changeNavBG = () => {
+    if (window.scrollY >= 50) {
+      setIsNavScroll(true)
+    } else {
+      setIsNavScroll(false)
+    }
+  }
+
+  useEffect(() => {
+    if (window) {
+      window.addEventListener('scroll', changeNavBG)
+
+      return () => {
+        window.removeEventListener('scroll', changeNavBG)
+      }
+    }
+  }, [changeNavBG])
+
+  return (
+    <Nav className={isNavScroll ? 'active' : ''}>
+      <StyledContainer>
+        <StyledTitle>THNKRN's website</StyledTitle>
+        <StyledLinkWrapper>
+          <StyledLink>
+            <Link href="/">
+              <a>Home</a>
+            </Link>
+          </StyledLink>
+          &nbsp;/&nbsp;
+          <StyledLink>
+            <Link href="/Playground">
+              <a>Playground</a>
+            </Link>
+          </StyledLink>
+        </StyledLinkWrapper>
+      </StyledContainer>
+    </Nav>
+  )
+}
 
 export default Header

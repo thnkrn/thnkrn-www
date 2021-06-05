@@ -48,6 +48,30 @@ const IndexPage = () => (
         <span className={TYPO.h2}>Thanakorn Ariyagusolsuthi</span>
       </StyledTextWrapper>
     </StyledProfileWrapper>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
+    <div>lorem</div>
   </Layout>
 )
 
