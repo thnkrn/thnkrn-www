@@ -12,7 +12,7 @@ const Nav = styled.nav`
   transition: background-color 0.7s ease;
 
   &.active {
-    background-color: rgba(29, 29, 31, 1);
+    background-color: rgb(29, 29, 31);
   }
 
   &::after {
@@ -47,6 +47,10 @@ const StyledLink = styled.span`
   a {
     text-decoration: none;
     color: white;
+
+    &:hover {
+      color: #36363a;
+    }
   }
 `
 
