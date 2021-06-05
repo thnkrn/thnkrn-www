@@ -4,7 +4,6 @@ import Link from 'next/link'
 const Nav = styled.nav`
   margin: auto;
   width: 80%;
-  max-width: 720px;
   position: sticky;
   top: 0;
   margin: 32px auto 0;
