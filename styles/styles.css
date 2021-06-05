@@ -1,0 +1,8 @@
+:root {
+  --f-roboto: 'Roboto';
+}
+
+body {
+  margin: 0;
+  font-family: var(--f-roboto);
+}
