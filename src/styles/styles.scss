@@ -15,7 +15,7 @@ body {
   }
 
   @media screen and (max-width: 480px) {
-    font-size: 10vw;
+    font-size: 7vw;
   }
 
   font-size: 3.9vw;
@@ -29,7 +29,7 @@ body {
   }
 
   @media screen and (max-width: 480px) {
-    font-size: 7vw;
+    font-size: 6vw;
   }
 
   font-size: 2.9vw;
@@ -56,7 +56,7 @@ body {
   }
 
   @media screen and (max-width: 480px) {
-    font-size: 8vw;
+    font-size: 6vw;
   }
 
   font-size: 1.9vw;
@@ -86,5 +86,33 @@ body {
   }
 
   font-size: 1vw;
+  margin: 0;
+}
+
+.italic1 {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    font-size: 2vw;
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 5vw;
+  }
+
+  font-size: 1.5vw;
+  font-style: italic;
+  margin: 0;
+}
+
+.italic2 {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    font-size: 1.7vw;
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 4vw;
+  }
+
+  font-size: 1vw;
+  font-style: italic;
   margin: 0;
 }

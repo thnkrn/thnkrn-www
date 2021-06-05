@@ -10,6 +10,8 @@ const Nav = styled.nav`
   background-color: black;
   z-index: 1;
   transition: background-color 0.7s ease;
+  border-bottom: 1px solid white;
+  margin-bottom: 80px;
 
   &.active {
     background-color: rgb(29, 29, 31);
@@ -18,7 +20,7 @@ const Nav = styled.nav`
   &::after {
     content: '';
     width: 100%;
-    height: 80px;
+    height: 70px;
     position: absolute;
     z-index: 0;
     top: 0;

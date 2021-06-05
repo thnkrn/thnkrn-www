@@ -21,6 +21,7 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
           />
+          <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
           <noscript>
             <link
               rel="stylesheet"

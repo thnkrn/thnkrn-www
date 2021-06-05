@@ -5,6 +5,8 @@ const TYPO = {
   subtitle2: 'subtitle2',
   body1: 'body1',
   body2: 'body2',
+  italic1: 'italic1',
+  italic2: 'italic2',
 }
 
 export default TYPO
