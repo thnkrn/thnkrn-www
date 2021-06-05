@@ -1,7 +1,9 @@
 import { styled } from '@compiled/react'
+import useIsPhone from 'components/Custom-hooks/useIsPhone'
 import Layout from 'components/Layout'
 import TYPO from 'constants/typography'
 import Image from 'next/image'
+import { useEffect } from 'react'
 
 const StyledProfileWrapper = styled.div`
   @media screen and (max-width: 480px) {
@@ -64,38 +66,46 @@ const StyledPositionTitle = styled.span`
   margin-left: 10px;
 `
 
-const IndexPage = () => (
-  <Layout>
-    <div>
-      <StyledProfileWrapper>
-        <StyledProfileImage>
-          <StyledImage
-            src="/images/profile.jpeg"
-            alt="Picture of thnkrn"
-            width={1385}
-            height={1385}
-            sizes="20vw"
-            layout="responsive"
-          />
-          <StyledLocation>
-            <span className="material-icons">pin_drop</span>
-            <span className={TYPO.body2} style={{ marginLeft: '5px' }}>
-              Bangkok, Thailand
-            </span>
-          </StyledLocation>
-        </StyledProfileImage>
-        <StyledTextWrapper>
-          <span className={TYPO.h1}>Thanakorn Ariyagusolsuthi</span>
-          <StyledPosition>
-            <span className={TYPO.body2}>Current position:</span>
-            <StyledPositionTitle className={TYPO.italic2}>
-              Assistant Manager, Fullstack Developer
-            </StyledPositionTitle>
-          </StyledPosition>
-        </StyledTextWrapper>
-      </StyledProfileWrapper>
-    </div>
-  </Layout>
-)
+const IndexPage = () => {
+  const { isPhone, fetchDevice } = useIsPhone()
+
+  useEffect(() => {
+    fetchDevice()
+  }, [fetchDevice])
+
+  return (
+    <Layout>
+      <div>
+        <StyledProfileWrapper>
+          <StyledProfileImage>
+            <StyledImage
+              src="/images/profile.jpeg"
+              alt="Picture of thnkrn"
+              width={1385}
+              height={1385}
+              sizes={isPhone ? '50vw' : '20vw'}
+              layout="responsive"
+            />
+            <StyledLocation>
+              <span className="material-icons">pin_drop</span>
+              <span className={TYPO.body2} style={{ marginLeft: '5px' }}>
+                Bangkok, Thailand
+              </span>
+            </StyledLocation>
+          </StyledProfileImage>
+          <StyledTextWrapper>
+            <span className={TYPO.h1}>Thanakorn Ariyagusolsuthi</span>
+            <StyledPosition>
+              <span className={TYPO.body2}>Current position:</span>
+              <StyledPositionTitle className={TYPO.italic2}>
+                Assistant Manager, Fullstack Developer
+              </StyledPositionTitle>
+            </StyledPosition>
+          </StyledTextWrapper>
+        </StyledProfileWrapper>
+      </div>
+    </Layout>
+  )
+}
 
 export default IndexPage
