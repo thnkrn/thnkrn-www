@@ -4,15 +4,15 @@
     "resourceSizes": [
       {
         "resourceType": "document",
-        "budget": 200
+        "budget": 3000
       },
       {
         "resourceType": "stylesheet",
-        "budget": 0
+        "budget": 3000
       },
       {
         "resourceType": "font",
-        "budget": 400
+        "budget": 30000
       }
     ],
     "resourceCounts": [
