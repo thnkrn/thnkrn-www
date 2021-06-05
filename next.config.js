@@ -27,10 +27,9 @@ const nextConfig = {
     const isNotDevMode = !dev
     const { CompiledExtractPlugin } = require('@compiled/webpack-loader')
 
-    // NOTE: Running scripts to generate sitemap and robot file
+    // NOTE: Running scripts to generate sitemap
     if (isServer) {
       require('./scripts/generate-sitemap')
-      // require('./scripts/generate-robot')
     }
 
     // NOTE: Ideal plan is to only extract css on prod build, but is blocked by an issue. (https://github.com/atlassian-labs/compiled/issues/388)
