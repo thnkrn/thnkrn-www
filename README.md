@@ -1,4 +1,4 @@
-# THNKRN's www is the webiste that represent about my personal information, my experience and my playground
+# THNKRN's www is the website that represent about my personal information, my experience and my playground
 
 ## Deployment
 
