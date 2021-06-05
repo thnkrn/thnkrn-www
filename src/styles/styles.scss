@@ -1,0 +1,90 @@
+:root {
+  --f-roboto: 'Roboto';
+}
+
+body {
+  background-color: black;
+  margin: 0;
+  font-family: var(--f-roboto);
+  color: white;
+}
+
+.h1 {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    font-size: 4.56vw;
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 10vw;
+  }
+
+  font-size: 3.9vw;
+  margin: 0;
+  font-weight: bold;
+}
+
+.h2 {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    font-size: 3.56vw;
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 9vw;
+  }
+
+  font-size: 2.9vw;
+  margin: 0;
+  font-weight: bold;
+}
+
+.subtitle1 {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    font-size: 3.56vw;
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 9vw;
+  }
+
+  font-size: 2.9vw;
+  margin: 0;
+}
+
+.subtitle2 {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    font-size: 2.56vw;
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 8vw;
+  }
+
+  font-size: 1.9vw;
+  margin: 0;
+}
+
+.body1 {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    font-size: 2vw;
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 5vw;
+  }
+
+  font-size: 1.5vw;
+  margin: 0;
+}
+
+.body2 {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    font-size: 1.7vw;
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 4vw;
+  }
+
+  font-size: 1vw;
+  margin: 0;
+}
