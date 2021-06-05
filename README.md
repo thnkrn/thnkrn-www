@@ -1,5 +1,9 @@
 # THNKRN's www is the website that represent about my personal information, my experience and my playground
 
+![Lighthouse Mobile Config](https://github.com/thnkrn/thnkrn-www/workflows/Lighthouse%20Mobile%20Config/badge.svg)
+![Lighthouse Desktop Config](https://github.com/thnkrn/thnkrn-www/workflows/Lighthouse%20Desktop%20Config/badge.svg)
+![Lighthouse Budget](https://github.com/thnkrn/thnkrn-www/workflows/Lighthouse%20Budget/badge.svg)
+
 ## Deployment
 
 This project, I'm using [Vercel](https://vercel.com/docs) as a deployment and collaboration platform, it will automatically trigger the build when the new commit merge in to master branch
