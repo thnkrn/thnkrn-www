@@ -3,7 +3,7 @@ import Layout from 'components/Layout'
 import dynamic from 'next/dynamic'
 import { Suspense, useState } from 'react'
 
-const DynamicContent = dynamic(() => import('./lazy-content'), { ssr: false })
+const DynamicContent = dynamic(() => import('components/LazyContent'), { ssr: false })
 
 // react.Suspense not support SSR yet
 const isServer = () => typeof window === 'undefined'

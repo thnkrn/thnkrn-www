@@ -8,7 +8,7 @@ const H1 = styled.h1`
 const IndexPage = () => (
   <Layout>
     <H1>Hola!</H1>
-    <span>Welcome to my play ground</span>
+    <span>Welcome to my playground</span>
   </Layout>
 )
 

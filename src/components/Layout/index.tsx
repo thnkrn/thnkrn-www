@@ -1,7 +1,8 @@
 import { styled } from '@compiled/react'
 import Head from 'next/head'
-import Link from 'next/link'
 import { ReactNode } from 'react'
+import Footer from './Footer'
+import Header from './Header'
 
 interface Props {
   children: ReactNode
@@ -10,46 +11,30 @@ interface Props {
   noFooter?: boolean
 }
 
-const Header = styled.header`
-  margin-bottom: 20px;
-`
-
-const Footer = styled.footer`
-  margin-top: 20px;
+const StyledContainer = styled.div`
+  margin: auto;
+  width: 80%;
+  max-width: 720px;
 `
 
 const Layout = ({
   children,
-  title = 'This is the default title',
+  title = `THNKRN's playground`,
   noHeader = false,
   noFooter = false,
 }: Props) => (
-  <div>
+  <>
     <Head>
       <title>{title}</title>
       <meta charSet="utf-8" />
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
+    {!noHeader && <Header />}
 
-    {!noHeader && (
-      <Header>
-        <nav>
-          <Link href="/">
-            <a>Home</a>
-          </Link>{' '}
-        </nav>
-      </Header>
-    )}
+    <StyledContainer>{children}</StyledContainer>
 
-    {children}
-
-    {!noFooter && (
-      <Footer>
-        <hr />
-        <span>Footer Here</span>
-      </Footer>
-    )}
-  </div>
+    {!noFooter && <Footer />}
+  </>
 )
 
 export default Layout
