@@ -87,7 +87,7 @@ const IndexPage = () => {
               layout="responsive"
             />
             <StyledLocation>
-              {/* <span className="material-icons">pin_drop</span> */}
+              <span className="material-icons">pin_drop</span>
               <span className={TYPO.body2} style={{ marginLeft: '5px' }}>
                 Bangkok, Thailand
               </span>
