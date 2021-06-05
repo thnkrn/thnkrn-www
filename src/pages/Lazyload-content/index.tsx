@@ -13,11 +13,11 @@ const IndexPage = () => {
   const [isShowContent, setIsShowContent] = useState(false)
   return (
     <Layout noHeader noFooter>
-          <H1>Lazyload content suspense</H1>
-          <button onClick={() => setIsShowContent(!isShowContent)}>
-            {!isShowContent ? 'Show content' : 'Hide content'}
-          </button>
-            {isShowContent && <DynamicContent />}
+      <H1>Lazyload content suspense</H1>
+      <button onClick={() => setIsShowContent(!isShowContent)}>
+        {!isShowContent ? 'Show content' : 'Hide content'}
+      </button>
+      {isShowContent && <DynamicContent />}
     </Layout>
   )
 }
