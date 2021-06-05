@@ -1,8 +1,10 @@
-# Next.js Template - Playground
+# THNKRN's www is the webiste that represent about my personal information, my experience and my playground
 
-The main aim of this repo is the playgroud for my experiment or some small feature that will seperate by page
+## Deployment
 
-## Playground Structure
+This project, I'm using [Vercel](https://vercel.com/docs) as a deployment and collaboration platform, it will automatically trigger the build when the new commit merge in to master branch
+
+You can visit the website via [THNKRN's www](https://thnkrn.vercel.app/)
 
 #### **/next-optimized-images**
 
@@ -21,12 +23,6 @@ The main aim of this repo is the playgroud for my experiment or some small featu
 - Git hook integrated with [Husky](https://typicode.github.io/husky).
 - Pre-commit #1: Uses [Commitlint](https://commitlint.js.org/) for consistent commit messages.
 - Pre-commit #2: Uses [Lint Staged](https://github.com/okonet/lint-staged) to run `npm run lint`, `npm run prettier` and `npm run test:staged` on staged files.
-
-## Deployment
-
-This project, I'm using [Vercel](https://vercel.com/docs) as a deployment and collaboration platform, it will automatically trigger the build when the new commit merge in to master branch
-
-You can visit the website via [Project URL](https://next-ts-playground.vercel.app/)
 
 ## Available Scripts
 
