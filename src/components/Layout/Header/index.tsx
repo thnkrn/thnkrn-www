@@ -49,7 +49,7 @@ const StyledLink = styled.span`
 const Header = () => (
   <Nav>
     <StyledContainer>
-      <StyledTitle>THNKRN's playgroud</StyledTitle>
+      <StyledTitle>THNKRN's website</StyledTitle>
       <StyledLinkWrapper>
         <StyledLink>
           <Link href="/">

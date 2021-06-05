@@ -18,7 +18,7 @@ const StyledContainer = styled.div`
 
 const Layout = ({
   children,
-  title = `THNKRN's playground`,
+  title = `THNKRN's website`,
   noHeader = false,
   noFooter = false,
 }: Props) => (
