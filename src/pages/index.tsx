@@ -1,8 +1,9 @@
 import { styled } from '@compiled/react'
-import ImageWrapper from 'components/ImageWrapper'
+// import ImageWrapper from 'components/ImageWrapper'
 import Layout from 'components/Layout'
 import TYPO from 'constants/typography'
-import Img from 'react-optimized-image'
+// import Img from 'react-optimized-image'
+import Image from 'next/image'
 
 const StyledProfileWrapper = styled.div`
   display: flex;
@@ -18,6 +19,10 @@ const StyledProfileImage = styled.div`
   width: 20vw;
 `
 
+const StyledImage = styled(Image)`
+  border-radius: 50%;
+`
+
 const StyledTextWrapper = styled.div`
   display: flex;
   flex-direction: column;
@@ -29,24 +34,14 @@ const IndexPage = () => (
     <h1 className={TYPO.h1}>Hola!</h1>
     <StyledProfileWrapper>
       <StyledProfileImage>
-        <ImageWrapper width={1385} height={1385}>
-          <Img
-            css={{
-              position: 'absolute',
-              top: 0,
-              right: 0,
-              bottom: 0,
-              left: 0,
-              borderRadius: '50%',
-            }}
-            src={require('public/images/profile.jpeg')}
-            sizes={[400, 500, 700, 900]}
-            breakpoints={[599, 1000, 1599]}
-            loading="lazy"
-            width="100%"
-            height="auto"
-          />
-        </ImageWrapper>
+        <StyledImage
+          src="/images/profile.jpeg"
+          alt="Picture of thnkrn"
+          width={1385}
+          height={1385}
+          sizes="20vw"
+          layout="responsive"
+        />
       </StyledProfileImage>
       <StyledTextWrapper>
         <span className={TYPO.subtitle1}>My name is</span>
