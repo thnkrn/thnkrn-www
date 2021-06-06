@@ -9,6 +9,14 @@ body {
   color: white;
 }
 
+svg:not([fill]) {
+  fill: currentColor;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}
+
 .h1 {
   @media screen and (min-width: 481px) and (max-width: 1024px) {
     font-size: 4.56vw;

@@ -1,4 +1,6 @@
 import { styled } from '@compiled/react'
+import Icon from 'components/Common/Icon'
+import { ICONS } from 'components/Common/Icon/const'
 import useIsPhone from 'components/Custom-hooks/useIsPhone'
 import Layout from 'components/Layout'
 import TYPO from 'constants/typography'
@@ -86,7 +88,7 @@ const IndexPage = () => {
             layout="responsive"
           />
           <StyledLocation>
-            <span className="material-icons">pin_drop</span>
+            <Icon src={ICONS.location} />
             <span className={TYPO.body2} style={{ marginLeft: '5px' }}>
               Bangkok, Thailand
             </span>
