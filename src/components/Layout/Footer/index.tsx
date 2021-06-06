@@ -33,7 +33,7 @@ const StyledContactList = styled.div`
 
   &:not(:first-child) {
     @media screen and (max-width: 480px) {
-      margin: 20px 0 0 0;
+      margin: 20px 0 0 !important;
     }
 
     margin-left: 50px;
