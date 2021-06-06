@@ -2,7 +2,7 @@ name: Lighthouse Desktop Config
 
 on:
   schedule:
-    - cron: '*/180 * * * *'
+    - cron: '0 13 * * 1'
   repository_dispatch:
     types: lighthouse
 
