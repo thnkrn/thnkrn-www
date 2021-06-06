@@ -7,6 +7,7 @@ const TYPO = {
   body2: 'body2',
   italic1: 'italic1',
   italic2: 'italic2',
+  contact: 'contact',
 }
 
 export default TYPO

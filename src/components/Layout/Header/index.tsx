@@ -47,9 +47,6 @@ const StyledLinkWrapper = styled.div`
 
 const StyledLink = styled.span`
   a {
-    text-decoration: none;
-    color: white;
-
     &:hover {
       color: #36363a;
     }

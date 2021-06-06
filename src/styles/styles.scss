@@ -1,5 +1,6 @@
 :root {
   --f-roboto: 'Roboto';
+  --f-fira-code: 'Fira Code';
 }
 
 body {
@@ -15,6 +16,15 @@ svg:not([fill]) {
 
 svg:not(:root) {
   overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .h1 {
@@ -122,5 +132,19 @@ svg:not(:root) {
 
   font-size: 1vw;
   font-style: italic;
+  margin: 0;
+}
+
+.contact {
+  @media screen and (min-width: 481px) and (max-width: 1024px) {
+    font-size: 1.7vw;
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 4vw;
+  }
+
+  font-family: var(--f-fira-code);
+  font-size: 1vw;
   margin: 0;
 }
