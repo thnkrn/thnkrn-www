@@ -8,7 +8,7 @@
 
 This project, I'm using [Vercel](https://vercel.com/docs) as a deployment and collaboration platform, it will automatically trigger the build when the new commit merge in to master branch
 
-You can visit the website via [THNKRN's www](https://thnkrn.vercel.app/)
+You can visit the website via [https://www.thnkrn.com/](https://www.thnkrn.com/)
 
 #### **/next-optimized-images**
 
