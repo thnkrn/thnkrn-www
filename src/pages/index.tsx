@@ -94,7 +94,7 @@ const IndexPage = () => {
             </StyledLocation>
           </StyledProfileImage>
           <StyledTextWrapper>
-            <span className={TYPO.h1}>Thanakorn Ariyagusolsuthi</span>
+            <h1 className={TYPO.h1}>Thanakorn Ariyagusolsuthi</h1>
             <StyledPosition>
               <span className={TYPO.body2}>Current position:</span>
               <StyledPositionTitle className={TYPO.italic2}>
