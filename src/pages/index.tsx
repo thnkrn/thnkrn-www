@@ -75,35 +75,33 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <div>
-        <StyledProfileWrapper>
-          <StyledProfileImage>
-            <StyledImage
-              src="/images/profile.jpeg"
-              alt="Picture of thnkrn"
-              width={1385}
-              height={1385}
-              sizes={isPhone ? '50vw' : '20vw'}
-              layout="responsive"
-            />
-            <StyledLocation>
-              <span className="material-icons">pin_drop</span>
-              <span className={TYPO.body2} style={{ marginLeft: '5px' }}>
-                Bangkok, Thailand
-              </span>
-            </StyledLocation>
-          </StyledProfileImage>
-          <StyledTextWrapper>
-            <h1 className={TYPO.h1}>Thanakorn Ariyagusolsuthi</h1>
-            <StyledPosition>
-              <span className={TYPO.body2}>Current position:</span>
-              <StyledPositionTitle className={TYPO.italic2}>
-                Assistant Manager, Fullstack Developer
-              </StyledPositionTitle>
-            </StyledPosition>
-          </StyledTextWrapper>
-        </StyledProfileWrapper>
-      </div>
+      <StyledProfileWrapper>
+        <StyledProfileImage>
+          <StyledImage
+            src="/images/profile.jpeg"
+            alt="Picture of thnkrn"
+            width={1385}
+            height={1385}
+            sizes={isPhone ? '50vw' : '20vw'}
+            layout="responsive"
+          />
+          <StyledLocation>
+            <span className="material-icons">pin_drop</span>
+            <span className={TYPO.body2} style={{ marginLeft: '5px' }}>
+              Bangkok, Thailand
+            </span>
+          </StyledLocation>
+        </StyledProfileImage>
+        <StyledTextWrapper>
+          <h1 className={TYPO.h1}>Thanakorn Ariyagusolsuthi</h1>
+          <StyledPosition>
+            <span className={TYPO.body2}>Current position:</span>
+            <StyledPositionTitle className={TYPO.italic2}>
+              Assistant Manager, Fullstack Developer
+            </StyledPositionTitle>
+          </StyledPosition>
+        </StyledTextWrapper>
+      </StyledProfileWrapper>
     </Layout>
   )
 }
