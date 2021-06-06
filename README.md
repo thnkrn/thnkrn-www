@@ -27,6 +27,7 @@ You can visit the website via [THNKRN's www](https://thnkrn.vercel.app/)
 - Git hook integrated with [Husky](https://typicode.github.io/husky).
 - Pre-commit #1: Uses [Commitlint](https://commitlint.js.org/) for consistent commit messages.
 - Pre-commit #2: Uses [Lint Staged](https://github.com/okonet/lint-staged) to run `npm run lint`, `npm run prettier` and `npm run test:staged` on staged files.
+- Icons component: Uses custom component to load the icons and optimize by using icons sprite
 
 ## Available Scripts
 
