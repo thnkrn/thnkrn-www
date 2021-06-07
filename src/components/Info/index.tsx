@@ -16,6 +16,8 @@ const StyledContainer = styled.div`
 const StyledWrapper = styled.div`
   display: flex;
   flex-direction: column;
+  white-space: pre-line;
+  text-align: justify;
 
   .body2 {
     :not(:first-of-type) {
