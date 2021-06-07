@@ -34,6 +34,12 @@ const StyledContainer = styled.div`
   height: 40px;
   position: relative;
   z-index: 1;
+
+  a {
+    &:hover {
+      text-decoration: none;
+    }
+  }
 `
 
 const StyledTitle = styled.span`
@@ -77,14 +83,18 @@ const Header = () => {
   return (
     <Nav className={isNavScroll ? 'active' : ''}>
       <StyledContainer>
-        <StyledTitle>THNKRN's website</StyledTitle>
+        <StyledTitle>
+          <Link href="/">
+            <a>THNKRN</a>
+          </Link>
+        </StyledTitle>
         <StyledLinkWrapper>
           <StyledLink>
             <Link href="/">
               <a>Home</a>
             </Link>
           </StyledLink>
-          &nbsp;/&nbsp;
+          &nbsp;|&nbsp;
           <StyledLink>
             <Link href="/Playground">
               <a>Playground</a>

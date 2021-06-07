@@ -27,7 +27,7 @@ const StyledTitle = styled.div`
     text-align: center;
 
     span {
-      margin: 0 !important;
+      margin-left: 0 !important;
     }
   }
 
@@ -35,11 +35,12 @@ const StyledTitle = styled.div`
   align-items: center;
 
   span {
-    margin: 3px 0 0 15px;
+    margin-left: 15px;
   }
 
   .fancy {
-    color: var(--thnkrn-dark-blue);
+    color: var(--thnkrn-pink);
+    margin-top: 5px;
   }
 `
 
@@ -70,7 +71,7 @@ const StyledCompany = styled.div`
 
   .fancy {
     margin-left: 15px;
-    color: var(--thnkrn-dark-blue);
+    color: var(--thnkrn-pink);
   }
 `
 
