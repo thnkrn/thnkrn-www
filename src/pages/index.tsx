@@ -99,7 +99,7 @@ const IndexPage = () => {
           <StyledPosition>
             <span className={TYPO.body2}>Current position:</span>
             <StyledPositionTitle className={TYPO.italic2}>
-              Assistant Manager, Fullstack Developer
+              Assistant Manager, Software Engineer
             </StyledPositionTitle>
           </StyledPosition>
         </StyledTextWrapper>
