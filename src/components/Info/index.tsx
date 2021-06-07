@@ -23,7 +23,9 @@ const StyledWrapper = styled.div`
 const Info = () => (
   <StyledContainer>
     <StyledWrapper>
-      <span className={TYPO.body2}>Cheers,</span>
+      <span className={TYPO.body2} style={{ color: '#88b1b3' }}>
+        Cheers,
+      </span>
       <span className={TYPO.body2}>
         I'm a Software Engineer who passionate on web development or you can call me as 'Webmaster'
         which is based on React ecosystem. I'm working on a fancy landing page, SEO, security,
