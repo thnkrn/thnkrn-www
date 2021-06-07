@@ -15,16 +15,16 @@ class MyDocument extends Document {
           <link
             rel="preload"
             as="style"
-            href="https://fonts.googleapis.com/css2?family=Roboto&family=Fira+Code&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Montserrat&family=Fira+Code&display=swap"
           />
           <link
             rel="stylesheet"
-            href="https://fonts.googleapis.com/css2?family=Roboto&family=Fira+Code&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Montserrat&family=Fira+Code&display=swap"
           />
           <noscript>
             <link
               rel="stylesheet"
-              href="https://fonts.googleapis.com/css2?family=Roboto&family=Fira+Code&display=swap"
+              href="https://fonts.googleapis.com/css2?family=Montserrat&family=Fira+Code&display=swap"
             />
           </noscript>
         </Head>

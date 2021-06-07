@@ -1,14 +1,14 @@
 :root {
   --thnkrn-black: '#000';
   --thnkrn-white: '#fff';
-  --f-roboto: 'Roboto';
+  --f-montserrat: 'Montserrat';
   --f-fira-code: 'Fira Code';
 }
 
 body {
   background-color: black;
   margin: 0;
-  font-family: var(--f-roboto);
+  font-family: var(--f-montserrat);
   color: white;
 }
 
@@ -35,7 +35,7 @@ a {
   }
 
   @media screen and (max-width: 480px) {
-    font-size: 7vw;
+    font-size: 6.5vw;
   }
 
   font-size: 3.9vw;
@@ -93,6 +93,7 @@ a {
   }
 
   font-size: 1.5vw;
+  line-height: 1.7;
   margin: 0;
 }
 
@@ -105,7 +106,8 @@ a {
     font-size: 4vw;
   }
 
-  font-size: 1vw;
+  font-size: 1.2vw;
+  line-height: 1.7;
   margin: 0;
 }
 
