@@ -2,7 +2,7 @@ export const EXPERIENCE = [
   {
     title: 'Assistant Manager, Full-stack Developer',
     duration: '(Jan 2021 - Present)',
-    company: 'Prudential Life Assurance Public Company Ltd. (Thailand)',
+    location: 'Prudential Life Assurance Public Company Ltd. (Thailand)',
     type: '(Full-time)',
     desc: [
       `Move back to full-stack developer after focusing on a front-end side for 2 years, but for the back-end side, I'm working for only the BFF or backend for frontend part, not the mainstream for back-end developer, we having an actual backend team which is served the data for us like AS-400 or Java developer team.`,
@@ -13,7 +13,7 @@ export const EXPERIENCE = [
   {
     title: 'Senior, Software Engineer',
     duration: '(Jul 2020 – Dec 2020)',
-    company: 'Pomelo Fashion',
+    location: 'Pomelo Fashion',
     type: '(Full-time)',
     desc: [
       `As a Senior, I have to take more responsibility not only the coding skill but also for helping the team to manage the tasks and estimate the incoming requirements. From that point, I have a new potential opportunity to offer my opinion in the meeting or have a right to decide something on the project with the other teams.`,
@@ -23,7 +23,7 @@ export const EXPERIENCE = [
   {
     title: 'Software Engineer',
     duration: '(Jun 2019 – Jun 2020)',
-    company: 'Pomelo Fashion',
+    location: 'Pomelo Fashion',
     type: '(Full-time)',
     desc: [
       `Being a React developer with Next.JS framework and perform on many tasks of requirement. Starting with the marketing part, developed on a landing page or special campaign for Pomelo fashion mostly use a coding skill on the UI part and animation.`,
@@ -35,7 +35,7 @@ export const EXPERIENCE = [
   {
     title: 'Full-stack Developer',
     duration: '(Jun 2018 – Sep 2018)',
-    company: 'Prudential Life Assurance Public Company Ltd. (Thailand)',
+    location: 'Prudential Life Assurance Public Company Ltd. (Thailand)',
     type: '(Internship)',
     desc: [
       `Internship for 2 months, being a software and artificial intelligence engineer`,
@@ -48,7 +48,7 @@ export const EXPERIENCE = [
   {
     title: 'Full-stack Developer',
     duration: '(Jun 2017 – Sep 2018)',
-    company: 'Fastwork Technologies Co., Ltd.',
+    location: 'Fastwork Technologies Co., Ltd.',
     type: '(Freelance)',
     desc: [
       `Working as a freelance developer via studying at the university for developing mobile or web application, mostly focusing on Front-end stuff`,

@@ -6,4 +6,5 @@ export const ICONS = {
   linkedin: `${prefix}linkedin`,
   email: `${prefix}email`,
   work: `${prefix}work`,
+  education: `${prefix}education`,
 }

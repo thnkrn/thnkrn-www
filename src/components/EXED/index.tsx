@@ -1,8 +1,12 @@
 import { styled } from '@compiled/react'
 import Icon from 'components/Common/Icon'
-import { EXPERIENCE } from 'constants/experience'
-import { ICONS } from 'constants/icons'
 import TYPO from 'constants/typography'
+
+interface Props {
+  title: string
+  content: any
+  icon: string
+}
 
 const StyledContainer = styled.div`
   @media screen and (min-width: 481px) and (max-width: 1024px) {
@@ -90,24 +94,24 @@ const StyledDesc = styled.div`
   }
 `
 
-const Experience = () => (
+const EDEX = ({ title, content, icon }: Props) => (
   <StyledContainer>
-    <h2 className={TYPO.h2}>Experience</h2>
-    {EXPERIENCE.map((job) => (
-      <StyledWrapper key={job.title}>
+    <h2 className={TYPO.h2}>{title}</h2>
+    {content.map((data: any) => (
+      <StyledWrapper key={data.title}>
         <StyledTitle>
-          <Icon src={ICONS.work} />
-          <span className={TYPO.body1}>{job.title}</span>
-          <span className={TYPO.fancy}>{job.duration}</span>
+          <Icon src={icon} />
+          <span className={TYPO.body1}>{data.title}</span>
+          <span className={TYPO.fancy}>{data.duration}</span>
         </StyledTitle>
         <StyledDetail>
           <StyledCompany>
-            <span className={TYPO.body1}>{job.company}</span>
-            <span className={TYPO.fancy}>{job.type}</span>
+            <span className={TYPO.body1}>{data.location}</span>
+            <span className={TYPO.fancy}>{data.type}</span>
           </StyledCompany>
           <StyledDesc className={TYPO.body2}>
-            {job?.desc.map((data) => (
-              <span key={data}>{data}</span>
+            {data?.desc.map((list: string) => (
+              <span key={data}>{list}</span>
             ))}
           </StyledDesc>
         </StyledDetail>
@@ -116,4 +120,4 @@ const Experience = () => (
   </StyledContainer>
 )
 
-export default Experience
+export default EDEX
