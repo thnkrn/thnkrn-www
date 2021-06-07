@@ -19,7 +19,7 @@ const StyledContainer = styled.div`
 
 const Layout = ({
   children,
-  title = `THNKRN's website`,
+  title = `THNKRN`,
   desc = 'My personal information, experience and playground',
   noHeader = false,
   noFooter = false,
