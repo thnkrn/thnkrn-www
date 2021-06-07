@@ -16,8 +16,8 @@ export const EXPERIENCE = [
     company: 'Pomelo Fashion',
     type: '(Full-time)',
     desc: [
-      `As a Senior, I have to take more responsible not only the coding skill but also helping the team to managing the tasks and estimate the incoming requirements. From that point, I have a new potential opportunity to offer my opinion in the meeting or have a right to decide something on the project with the other teams.`,
-      `Moreover, not focusing on coding the new features and serve users as requirements, I'm also have to invole in web monitoring, infrastructure monitoring, and manage the outsource for web team.`,
+      `As a Senior, I have to take more responsibility not only the coding skill but also for helping the team to manage the tasks and estimate the incoming requirements. From that point, I have a new potential opportunity to offer my opinion in the meeting or have a right to decide something on the project with the other teams.`,
+      `Moreover, not focusing on coding the new features and serve users as requirements, I also have to involve in web monitoring, infrastructure monitoring, and manage the outsourcing for web team.`,
     ],
   },
   {
