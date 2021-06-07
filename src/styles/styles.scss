@@ -1,6 +1,9 @@
 :root {
-  --thnkrn-black: '#000';
-  --thnkrn-white: '#fff';
+  --thnkrn-black: #000;
+  --thnkrn-white: #fff;
+  --thnkrn-blue: #88b1b3;
+  --thnkrn-dark-blue: #4b6966;
+  --thnkrn-pink: #d34c82;
   --f-montserrat: 'Montserrat';
   --f-fira-code: 'Fira Code';
 }
@@ -139,7 +142,7 @@ a {
   margin: 0;
 }
 
-.contact {
+.fancy {
   @media screen and (min-width: 481px) and (max-width: 1024px) {
     font-size: 1.7vw;
   }

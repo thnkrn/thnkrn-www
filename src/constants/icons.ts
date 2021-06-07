@@ -5,4 +5,5 @@ export const ICONS = {
   github: `${prefix}github`,
   linkedin: `${prefix}linkedin`,
   email: `${prefix}email`,
+  work: `${prefix}work`,
 }

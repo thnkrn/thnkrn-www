@@ -14,7 +14,7 @@ interface Props {
 
 const StyledContainer = styled.div`
   margin: auto;
-  width: 90%;
+  width: 85%;
 `
 
 const Layout = ({

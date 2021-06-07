@@ -47,11 +47,11 @@ const Footer = () => (
         <StyledContactList key={list.title}>
           <Icon src={list.icon} />
           {list.isLink ? (
-            <span className={TYPO.contact}>
+            <span className={TYPO.fancy}>
               <a href={list.link}>{list.title}</a>
             </span>
           ) : (
-            <span className={TYPO.contact}>{list.title}</span>
+            <span className={TYPO.fancy}>{list.title}</span>
           )}
         </StyledContactList>
       ))}
