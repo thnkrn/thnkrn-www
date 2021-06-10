@@ -3,6 +3,10 @@ import Link from 'next/link'
 import { useEffect, useState } from 'react'
 
 const Nav = styled.nav`
+  @media screen and (max-width: 480px) {
+    margin-bottom: 60px;
+  }
+
   margin: auto;
   position: sticky;
   top: 0;
