@@ -39,9 +39,13 @@ const Info = () => (
         And now as a Fullstack Developer, I'm also working on the Backend stuff, and Database too.
       </span>
       <span className={TYPO.body2}>
-        Moreover, I'm usually opened and interested in new tech stacks and I would like to try it
-        ASAP. I'm also free to listen and discuss the new tech stacks and how it is awesome with my
-        teammates.
+        I'm pay attention the most on developer experience like write clean, composable, and
+        maintainable code as world class products for both internal and external customer. Also, I'm
+        really care about the processes, high quality of code and products, and aesthetics.
+      </span>
+      <span className={TYPO.body2}>
+        Moreover, I'm a tech-savvy guy, who is always curious and excite about new technology stacks
+        I'm also like to learn, listen, and discuss about the tech things with my teammates.
       </span>
       <span className={TYPO.body2}>
         Lastly, I'm a fast learner and open to every avenue that comes to me. And I'm eager to learn
