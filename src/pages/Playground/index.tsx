@@ -55,9 +55,12 @@ const StyledTextWrapper = styled.div`
     text-align: center;
   }
 
+  @media screen and (min-width: 481px) {
+    flex: 1;
+  }
+
   display: flex;
   flex-direction: column;
-  flex: 1;
   margin-left: 5vw;
 
   .subtitle1 {

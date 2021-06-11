@@ -4,6 +4,10 @@ import { CONTACT_LIST } from 'constants/contact'
 import TYPO from 'constants/typography'
 
 const StyledFooter = styled.footer`
+  @media screen and (max-width: 480px) {
+    margin-top: 60px;
+  }
+
   color: white;
   margin-top: 80px;
   text-align: center;
@@ -14,7 +18,7 @@ const StyledFooter = styled.footer`
 const StyledContactWrapper = styled.div`
   @media screen and (max-width: 480px) {
     flex-direction: column;
-    margin-top: 20px;
+    margin-top: 10px;
   }
 
   display: flex;
