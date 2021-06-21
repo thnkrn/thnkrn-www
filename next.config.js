@@ -20,9 +20,6 @@ if (process.env.ANALYZE === 'true') {
 }
 
 const nextConfig = {
-  future: {
-    webpack5: true,
-  },
   webpack: (config, { dev, isServer }) => {
     const isNotDevMode = !dev
     const { CompiledExtractPlugin } = require('@compiled/webpack-loader')

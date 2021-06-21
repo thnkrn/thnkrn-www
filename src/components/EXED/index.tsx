@@ -98,7 +98,7 @@ const EDEX = ({ title, content, icon }: Props) => (
   <StyledContainer>
     <h2 className={TYPO.h2}>{title}</h2>
     {content.map((data: any) => (
-      <StyledWrapper key={data.title}>
+      <StyledWrapper key={data.duration}>
         <StyledTitle>
           <Icon src={icon} />
           <span className={TYPO.body1}>{data.title}</span>
@@ -110,8 +110,8 @@ const EDEX = ({ title, content, icon }: Props) => (
             <span className={TYPO.fancy}>{data.type}</span>
           </StyledCompany>
           <StyledDesc className={TYPO.body2}>
-            {data?.desc.map((list: string) => (
-              <span key={data}>{list}</span>
+            {data?.desc.map((list: string, idx: any) => (
+              <span key={idx}>{list}</span>
             ))}
           </StyledDesc>
         </StyledDetail>
