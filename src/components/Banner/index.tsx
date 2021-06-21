@@ -91,7 +91,7 @@ const Banner = ({ isPhone }: Props) => {
           alt="Picture of thnkrn"
           width={1385}
           height={1385}
-          sizes={isPhone ? '50vw' : '35vw'}
+          sizes={isPhone ? '50vw' : '25vw'}
           layout="responsive"
           quality="100"
           placeholder="blur"
