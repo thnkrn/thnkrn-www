@@ -2,60 +2,787 @@
 
 exports[`Index should match snapshot 1`] = `
 <DocumentFragment>
-  <div>
+  <style
+    data-cmpld="true"
+  >
+    ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._kqsw1if8{position:sticky}._154iidpf{top:0}._ca0qgktf{padding-top:20px}._u5f3gktf{padding-right:20px}._n3tdgktf{padding-bottom:20px}._19bvgktf{padding-left:20px}._bfhk11x8{background-color:black}._1pbykb7n{z-index:1}._v564l48m{transition:background-color 0.7s ease}._n7zl1j9v{border-bottom:1px solid white}._otyru29b{margin-bottom:80px}._1f7s9fnn.active{background-color:rgb(29,29,31)}._aetr1yyf:after{content:''}._z0ai1osq:after{width:100%}._1qdgymf6:after{height:70px}._18postnw:after{position:absolute}._1bqqidpf:after{z-index:0}._15l2idpf:after{top:0}._19doidpf:after{left:0}@media screen and (max-width:480px){._183z1wqb{margin-bottom:60px}}
+  </style>
+  <nav
+    class="_183z1wqb _19pk1wug _2hwx1wug _otyru29b _18u01wug _kqsw1if8 _154iidpf _ca0qgktf _u5f3gktf _n3tdgktf _19bvgktf _bfhk11x8 _1pbykb7n _v564l48m _n7zl1j9v _1f7s9fnn _aetr1yyf _z0ai1osq _1qdgymf6 _18postnw _1bqqidpf _15l2idpf _19doidpf"
+  >
     <style
       data-cmpld="true"
     >
-      ._otyrgktf{margin-bottom:20px}
+      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}
     </style>
-    <header
-      class="_otyrgktf"
+    <div
+      class="_1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
     >
-      <nav>
+      <style
+        data-cmpld="true"
+      >
+        ._16jlkb7n{flex-grow:1}._1o9zkb7n{flex-shrink:1}._i0dlidpf{flex-basis:0}
+      </style>
+      <span
+        class="_16jlkb7n _1o9zkb7n _i0dlidpf"
+      >
         <a
           href="/"
         >
-          Home
+          THNKRN
         </a>
-         | 
-        <a
-          href="/about"
-        >
-          About
-        </a>
-         | 
-      </nav>
-    </header>
-    <style
-      data-cmpld="true"
-    >
-      ._k48p8n31{font-weight:bold}
-    </style>
-    <h1
-      class="_k48p8n31"
-    >
-      Hello Next.js 👋
-    </h1>
-    <p>
-      <a
-        href="/about"
-      >
-        About
-      </a>
-    </p>
-    <style
-      data-cmpld="true"
-    >
-      ._19pkgktf{margin-top:20px}
-    </style>
-    <footer
-      class="_19pkgktf"
-    >
-      <hr />
-      <span>
-        Footer Here
       </span>
-    </footer>
+      <style
+        data-cmpld="true"
+      >
+        ._y3gnh9n0{text-align:end}
+      </style>
+      <div
+        class="_16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._oxk41mvx a:hover{color:#36363a}
+        </style>
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </span>
+         | 
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/Playground"
+          >
+            Playground
+          </a>
+        </span>
+      </div>
+    </div>
+  </nav>
+  <style
+    data-cmpld="true"
+  >
+    ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._1bsb13sl{width:85%}
+  </style>
+  <div
+    class="_19pk1wug _2hwx1wug _otyr1wug _18u01wug _1bsb13sl"
+  >
+    <style
+      data-cmpld="true"
+    >
+      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._1bah1h6o{justify-content:center}._19pk9lop{margin-top:2vw}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}._za9yidpf{margin-top:0}}
+    </style>
+    <div
+      class="_46cc1bp4 _za9yidpf _1e0c1txw _4cvr1h6o _1bah1h6o _19pk9lop"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._1bsb1jyv{width:25vw}._2lx21bp4{flex-direction:column}@media screen and (max-width:480px){._18l8a4lr{width:50vw}}
+      </style>
+      <div
+        class="_18l8a4lr _1bsb1jyv _1e0c1txw _2lx21bp4"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._2rko1ssb{border-radius:50%}
+        </style>
+        <div
+          style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        >
+          <div
+            style="display: block; box-sizing: border-box; padding-top: 100%;"
+          />
+          <noscript />
+          <img
+            alt="Picture of thnkrn"
+            class="_2rko1ssb"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjEzODUiIGhlaWdodD0iMTM4NSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTM4NSIgdG89IjEzODUiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+);"
+          />
+        </div>
+        <style
+          data-cmpld="true"
+        >
+          ._19pko7ao{margin-top:15px}
+        </style>
+        <div
+          class="_1e0c1txw _4cvr1h6o _1bah1h6o _19pko7ao"
+        >
+          <style
+            data-cmpld="true"
+          >
+            ._1bsb1tcg{width:24px}._4t3i1tcg{height:24px}._tzy4idpf{opacity:0}._18t5kb7n.loaded{opacity:1}
+          </style>
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#location"
+            />
+          </svg>
+          <span
+            class="body2"
+            style="margin-left: 5px;"
+          >
+            Bangkok, Thailand
+          </span>
+        </div>
+      </div>
+      <style
+        data-cmpld="true"
+      >
+        ._18u01l76{margin-left:5vw}._rzby19bv h1{margin-top:10px}._1tjq3eyv span{color:#88b1b3}@media screen and (max-width:480px){._za9yo7ao{margin-top:15px}._99s2idpf{margin-right:0}._183zidpf{margin-bottom:0}._wf1nidpf{margin-left:0}}
+      </style>
+      <div
+        class="_za9yo7ao _99s2idpf _183zidpf _wf1nidpf _1e0c1txw _2lx21bp4 _18u01l76 _rzby19bv _1tjq3eyv"
+      >
+        <span
+          class="body1"
+        >
+          Hi, I'm
+        </span>
+        <h1
+          class="h1"
+        >
+          Thanakorn Ariyagusolsuthi
+        </h1>
+        <style
+          data-cmpld="true"
+        >
+          ._19pk14y2{margin-top:5px}@media screen and (max-width:480px){._ygwp1txw{display:flex}._46cc1bp4{flex-direction:column}._1rkf1h6o{justify-content:center}._za9y19bv{margin-top:10px}}
+        </style>
+        <div
+          class="_ygwp1txw _46cc1bp4 _1rkf1h6o _za9y19bv _19pk14y2"
+        >
+          <style
+            data-cmpld="true"
+          >
+            ._18u019bv{margin-left:10px}@media screen and (max-width:480px){._wf1nidpf{margin-left:0}}
+          </style>
+          <span
+            class="_wf1nidpf _18u019bv italic2"
+          >
+            Assistant Manager, Software Engineer
+          </span>
+        </div>
+      </div>
+    </div>
+    <style
+      data-cmpld="true"
+    >
+      ._19pk1wqb{margin-top:60px}._2hwxllbu{margin-right:120px}._otyr1wqb{margin-bottom:60px}._18u0llbu{margin-left:120px}@media screen and (min-width:481px) and (max-width:1024px){._d7rp1ylp{margin-top:40px}._12e9gktf{margin-right:20px}._wnlt1ylp{margin-bottom:40px}._17npgktf{margin-left:20px}}@media screen and (max-width:480px){._za9y1fu0{margin-top:40px!important}._99s2grf3{margin-right:0!important}._183z1fu0{margin-bottom:40px!important}._wf1ngrf3{margin-left:0!important}}
+    </style>
+    <div
+      class="_d7rp1ylp _12e9gktf _wnlt1ylp _17npgktf _za9y1fu0 _99s2grf3 _183z1fu0 _wf1ngrf3 _19pk1wqb _2hwxllbu _otyr1wqb _18u0llbu"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._o5726vc6{white-space:pre-line}._y3gncvlb{text-align:justify}._pn1d19bv .body2:not(.body2:first-of-type){margin-top:10px}
+      </style>
+      <div
+        class="_1e0c1txw _2lx21bp4 _o5726vc6 _y3gncvlb _pn1d19bv"
+      >
+        <span
+          class="body2"
+        >
+          Cheers,
+        </span>
+        <span
+          class="body2"
+        >
+          I'm a Software Engineer who passionate about web development or you can call me 'Webmaster' which is based on React ecosystem. I'm working on a fancy landing page, SEO, security, performance, DevOps, and followed by the optimization part that I'm mostly crazy about it. And now as a Fullstack Developer, I'm also working on the Backend stuff, and Database too.
+        </span>
+        <span
+          class="body2"
+        >
+          I'm paying attention the most to developer experience like writing clean, composable, and maintainable code as world-class products for both internal and external customers. Also, I really care about the processes, high quality of code and products, and aesthetics.
+        </span>
+        <span
+          class="body2"
+        >
+          Moreover, I'm a tech-savvy guy, who is always curious and excite about new technology stacks. I'm also like to learn, listen, and discuss tech things with my teammates.
+        </span>
+        <span
+          class="body2"
+        >
+          Lastly, I'm a fast learner and open to every avenue that comes to me. And I'm eager to learn new things very much!
+        </span>
+      </div>
+    </div>
+    <style
+      data-cmpld="true"
+    >
+      ._19pk12xx{margin-top:100px}._2hwx12am{margin-right:50px}._otyr12xx{margin-bottom:100px}._18u012am{margin-left:50px}@media screen and (min-width:481px) and (max-width:1024px){._d7rp1wqb{margin-top:60px}._12e9gktf{margin-right:20px}._wnlt1wqb{margin-bottom:60px}._17npgktf{margin-left:20px}}
+    </style>
+    <div
+      class="_d7rp1wqb _12e9gktf _wnlt1wqb _17npgktf _za9y1fu0 _99s2grf3 _183z1fu0 _wf1ngrf3 _19pk12xx _2hwx12am _otyr12xx _18u012am"
+    >
+      <h2
+        class="h2"
+      >
+        Experience
+      </h2>
+      <style
+        data-cmpld="true"
+      >
+        ._19pk1ul9{margin-top:30px}
+      </style>
+      <div
+        class="_19pk1ul9"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._1w2uo7ao span{margin-left:15px}._zwmc13v7 .fancy{color:var(--thnkrn-pink)}._hdg014y2 .fancy{margin-top:5px}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}._1rkf1h6o{justify-content:center}._17q21h6o{text-align:center}._50uugrf3 span{margin-left:0!important}}
+        </style>
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#work"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            Assistant Manager, Full-stack Developer
+          </span>
+          <span
+            class="fancy"
+          >
+            (Jan 2021 - Present)
+          </span>
+        </div>
+        <style
+          data-cmpld="true"
+        >
+          ._2hwxidpf{margin-right:0}._otyridpf{margin-bottom:0}._18u010mc{margin-left:38px}@media screen and (max-width:480px){._za9ygrf3{margin-top:0!important}._99s2grf3{margin-right:0!important}._183zgrf3{margin-bottom:0!important}._wf1ngrf3{margin-left:0!important}}
+        </style>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <style
+            data-cmpld="true"
+          >
+            ._rd6q1fo9 .body1{color:var(--thnkrn-blue)}._1qhuo7ao .fancy{margin-left:15px}@media screen and (max-width:480px){._ygwp1txw{display:flex}._46cc1bp4{flex-direction:column}._1rkf1h6o{justify-content:center}._17q21h6o{text-align:center}._za9yo7ao{margin-top:15px}._1uw3grf3 .fancy{margin-left:0!important}}
+          </style>
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Prudential Life Assurance Public Company Ltd. (Thailand)
+            </span>
+            <span
+              class="fancy"
+            >
+              (Full-time)
+            </span>
+          </div>
+          <style
+            data-cmpld="true"
+          >
+            ._1ipko7ao span{margin-top:15px}@media screen and (max-width:480px){._za9yo7ao{margin-top:15px}._17q2cvlb{text-align:justify}._15yx6vc6{white-space:pre-line}}
+          </style>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              Move back to full-stack developer after focusing on a front-end side for 2 years, but for the back-end side, I'm working for only the BFF or backend for frontend part, not the mainstream for back-end developer, we having an actual backend team which is served the data for us like AS-400 or Java developer team.
+            </span>
+            <span>
+              A further step from the previous position, I'm having new opportunities to help with the guidance of new tech stack or the new principle, helping the team to build up a standardized or improvement both on tech performance and team well-being.
+            </span>
+            <span>
+              As a big company, we mostly handle many projects and need to serve fast and go for both internal and external users that involving me to familiar with many scrapfold and how to build a template to make suitable for each project. As mentioned that leads me to have an experience with many tech stuffs and usually need to resarch an up-to-date tech systems.
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="_19pk1ul9"
+      >
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#work"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            Senior, Software Engineer
+          </span>
+          <span
+            class="fancy"
+          >
+            (Jul 2020 – Dec 2020)
+          </span>
+        </div>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Pomelo Fashion
+            </span>
+            <span
+              class="fancy"
+            >
+              (Full-time)
+            </span>
+          </div>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              As a Senior, I have to take more responsibility not only the coding skill but also for helping the team to manage the tasks and estimate the incoming requirements. From that point, I have a new opportunity to collaborate with the other teams in the business meeting and have a chance to define the internal processes and initiatives to help the team accomplish its mission.
+            </span>
+            <span>
+              Moreover, not focusing on coding the new features and serve users as requirements, I also have to involve in web monitoring, infrastructure monitoring, and manage the outsourcing for web team.
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="_19pk1ul9"
+      >
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#work"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            Software Engineer
+          </span>
+          <span
+            class="fancy"
+          >
+            (Jun 2019 – Jun 2020)
+          </span>
+        </div>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Pomelo Fashion
+            </span>
+            <span
+              class="fancy"
+            >
+              (Full-time)
+            </span>
+          </div>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              Being a React developer with Next.JS framework and perform on many tasks of requirement. Starting with the marketing part, developed on a landing page or special campaign for Pomelo fashion mostly use a coding skill on the UI part and animation.
+            </span>
+            <span>
+              Second, on the product tribe, creating and developing the new features or focusing on develope the product for the business part for this kind of development will mainly focus on the logic part.
+            </span>
+            <span>
+               Following by coding on performance squad, mainly focus on how to develop and make the website be faster and more stable like responsive component, refactor code, redesign component, config file, or every kind of the web performance things.
+            </span>
+            <span>
+              Lastly, being a frontend DevOps, managing AWS like Elastic Beanstalk, EC2 or Cloudfront. Creating the CSP for the website and Moving web project from BitBucket to GitHub. Managing and moving web project to the Docker and Kubernetes.
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="_19pk1ul9"
+      >
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#work"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            Full-stack Developer
+          </span>
+          <span
+            class="fancy"
+          >
+            (Jun 2018 – Sep 2018)
+          </span>
+        </div>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Prudential Life Assurance Public Company Ltd. (Thailand)
+            </span>
+            <span
+              class="fancy"
+            >
+              (Internship)
+            </span>
+          </div>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              Internship for 2 months, being a software and artificial intelligence engineer
+            </span>
+            <span>
+              Creating a KYC mobile application that is used for cleansing and managing the customer database. I created a KYC app on Ionic 3 which is the mobile app framework is built on Angular and used JS, SCSS, and HTML to create the application. KYC app consists of 3 functions that use AI for 2 main functions.
+            </span>
+            <span>
+              First, I used the Amazon Web Service for Rekognition in order to compare selfie face with the picture in ID card of the customer, the app will return the similarity score for above 90 percent, below that its mean not match. I used Node.JS to create this back-end function and warp with the Express.JS after that send it to the cloud function for using in the application via Heroku.
+            </span>
+            <span>
+              Next function, the app will collect the information of customer from ID card by using the OCR function in order to reduce the processing time for users. I used the Google Vision to set the size of the ID card and the boxes of each field to collect all of the user's information.
+            </span>
+            <span>
+              Followed by the last function, the app will send the user's information to the Revenue Department of Thailand to check the validity of ID card. The result will return in the status of death, loss, or valid/invalid of the card. This application help the company a lot for cleansing the invalid data because the company had a million user data.
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="_19pk1ul9"
+      >
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#work"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            Full-stack Developer
+          </span>
+          <span
+            class="fancy"
+          >
+            (Jun 2017 – Sep 2018)
+          </span>
+        </div>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Fastwork Technologies Co., Ltd.
+            </span>
+            <span
+              class="fancy"
+            >
+              (Freelance)
+            </span>
+          </div>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              Working as a freelance developer via studying at the university for developing mobile or web application, mostly focusing on Front-end stuff
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_d7rp1wqb _12e9gktf _wnlt1wqb _17npgktf _za9y1fu0 _99s2grf3 _183z1fu0 _wf1ngrf3 _19pk12xx _2hwx12am _otyr12xx _18u012am"
+    >
+      <h2
+        class="h2"
+      >
+        Education
+      </h2>
+      <div
+        class="_19pk1ul9"
+      >
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#education"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            Chualalongkorn University | International School of Engineering
+          </span>
+          <span
+            class="fancy"
+          >
+            (2015 - 2019)
+          </span>
+        </div>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Bangkok, Thailand
+            </span>
+            <span
+              class="fancy"
+            >
+              (Bachelor of Engineering - BE, Computer Engineering)
+            </span>
+          </div>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              Major in Information and Communication Engineering (ICE)
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="_19pk1ul9"
+      >
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#education"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            St. Cuthbert's high school
+          </span>
+          <span
+            class="fancy"
+          >
+            (2012 - 2013)
+          </span>
+        </div>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Newcastle, United Kingdom
+            </span>
+            <span
+              class="fancy"
+            >
+              (Student Exchange Program)
+            </span>
+          </div>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              Major in Sci-Math
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="_19pk1ul9"
+      >
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#education"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            Bangkok Christian College
+          </span>
+          <span
+            class="fancy"
+          >
+            (2003 - 2015)
+          </span>
+        </div>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Bangkok, Thailand
+            </span>
+            <span
+              class="fancy"
+            >
+              (Elementary school - High school)
+            </span>
+          </div>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              Major in Sci-Math
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
+  <style
+    data-cmpld="true"
+  >
+    ._syaz1x77{color:white}._19pku29b{margin-top:80px}._y3gn1h6o{text-align:center}._x3doxja1{border-top:1px solid #fff}._ca0qgktf{padding-top:20px}._u5f3gktf{padding-right:20px}._n3tdgktf{padding-bottom:20px}._19bvgktf{padding-left:20px}@media screen and (max-width:480px){._za9y1wqb{margin-top:60px}}
+  </style>
+  <footer
+    class="_za9y1wqb _syaz1x77 _19pku29b _y3gn1h6o _x3doxja1 _ca0qgktf _u5f3gktf _n3tdgktf _19bvgktf"
+  >
+    <style
+      data-cmpld="true"
+    >
+      ._1e0c1txw{display:flex}._1bah1h6o{justify-content:center}._19pk1ylp{margin-top:40px}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}._za9y19bv{margin-top:10px}}
+    </style>
+    <div
+      class="_46cc1bp4 _za9y19bv _1e0c1txw _1bah1h6o _19pk1ylp"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._4cvr1h6o{align-items:center}._1ipk1l7b span{margin-top:3px}._1kdcidpf span{margin-right:0}._3glyidpf span{margin-bottom:0}._1w2u19bv span{margin-left:10px}._19qr12am:not(:first-child){margin-left:50px}@media screen and (max-width:480px){._kv0z1txs:not(:first-child){margin-top:20px!important}._urhrgrf3:not(:first-child){margin-right:0!important}._17kpgrf3:not(:first-child){margin-bottom:0!important}._1ol6grf3:not(:first-child){margin-left:0!important}}
+      </style>
+      <div
+        class="_1e0c1txw _4cvr1h6o _1bah1h6o _1ipk1l7b _1kdcidpf _3glyidpf _1w2u19bv _19qr12am _kv0z1txs _urhrgrf3 _17kpgrf3 _1ol6grf3"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._1bsb1tcg{width:24px}._4t3i1tcg{height:24px}._tzy4idpf{opacity:0}._18t5kb7n.loaded{opacity:1}
+        </style>
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#email"
+          />
+        </svg>
+        <span
+          class="fancy"
+        >
+          t.ariyagusolsuthi@gmail.com
+        </span>
+      </div>
+      <div
+        class="_1e0c1txw _4cvr1h6o _1bah1h6o _1ipk1l7b _1kdcidpf _3glyidpf _1w2u19bv _19qr12am _kv0z1txs _urhrgrf3 _17kpgrf3 _1ol6grf3"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#github"
+          />
+        </svg>
+        <span
+          class="fancy"
+        >
+          <a
+            href="https://github.com/thnkrn"
+          >
+            Github
+          </a>
+        </span>
+      </div>
+      <div
+        class="_1e0c1txw _4cvr1h6o _1bah1h6o _1ipk1l7b _1kdcidpf _3glyidpf _1w2u19bv _19qr12am _kv0z1txs _urhrgrf3 _17kpgrf3 _1ol6grf3"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#linkedin"
+          />
+        </svg>
+        <span
+          class="fancy"
+        >
+          <a
+            href="https://www.linkedin.com/in/thanakorn-ariyagusolsuthi"
+          >
+            Linkedin
+          </a>
+        </span>
+      </div>
+    </div>
+  </footer>
 </DocumentFragment>
 `;

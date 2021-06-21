@@ -15,6 +15,7 @@ module.exports = {
     'components/(.*)': '<rootDir>/src/components/$1',
     'pages/(.*)': '<rootDir>/src/pages/$1',
     'test/(.*)': '<rootDir>/src/test/$1',
+    '^constants/(.*)$': '<rootDir>/src/constants/$1',
   },
   roots: ['<rootDir>'],
   setupFilesAfterEnv: ['<rootDir>/src/test/setup.ts'],
@@ -23,4 +24,4 @@ module.exports = {
     '^.+\\.(ts|tsx)$': 'babel-jest',
   },
   transformIgnorePatterns: ['[/\\\\]node_modules[/\\\\].+\\.(ts|tsx)$'],
-};
+}
