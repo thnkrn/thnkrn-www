@@ -15,6 +15,7 @@ const IndexPage = () => {
     fetchDevice()
   }, [fetchDevice])
 
+  // test
   return (
     <Layout>
       <Banner isPhone={isPhone} />
