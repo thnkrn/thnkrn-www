@@ -1,7 +1,6 @@
 import { styled } from '@compiled/react'
 import Icon from 'components/Common/Icon'
 import useShimmer from 'components/CustomHooks/useShimmer'
-import useWindowSize from 'components/CustomHooks/useWindowSize'
 import { ICONS } from 'constants/icons'
 import TYPO from 'constants/typography'
 import Image from 'next/image'
@@ -83,7 +82,6 @@ const StyledPositionTitle = styled.span`
 
 const Banner = ({ isPhone }: Props) => {
   const shimmer = useShimmer(1385, 1385)
-  const windowSize = useWindowSize()
 
   return (
     <StyledProfileWrapper>
@@ -93,7 +91,7 @@ const Banner = ({ isPhone }: Props) => {
           alt="Picture of thnkrn"
           width={1385}
           height={1385}
-          sizes={isPhone ? '50vw' : `${windowSize?.width <= 1280 ? '15vw' : '25vw'}`}
+          sizes={isPhone ? '50vw' : '25vw'}
           layout="responsive"
           quality="100"
           placeholder="blur"
