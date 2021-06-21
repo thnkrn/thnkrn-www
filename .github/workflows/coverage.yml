@@ -13,9 +13,6 @@ jobs:
       matrix:
         node-version: [14.x]
 
-    env:
-      CI: true
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -31,7 +28,7 @@ jobs:
         run: npm ci
 
       - name: Run the tests
-        run: npm test -- --coverage
+        run: CI=true npm test -- --coverage
 
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v1
