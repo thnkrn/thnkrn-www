@@ -66,15 +66,15 @@ const StyledLink = styled.span`
 const Header = () => {
   const [isNavScroll, setIsNavScroll] = useState(false)
 
-  const changeNavBG = () => {
-    if (window.scrollY >= 50) {
-      setIsNavScroll(true)
-    } else {
-      setIsNavScroll(false)
-    }
-  }
-
   useEffect(() => {
+    const changeNavBG = () => {
+      if (window.scrollY >= 50) {
+        setIsNavScroll(true)
+      } else {
+        setIsNavScroll(false)
+      }
+    }
+
     if (window) {
       window.addEventListener('scroll', changeNavBG)
 
@@ -82,7 +82,9 @@ const Header = () => {
         window.removeEventListener('scroll', changeNavBG)
       }
     }
-  }, [changeNavBG])
+
+    return () => {}
+  }, [])
 
   return (
     <Nav className={isNavScroll ? 'active' : ''}>

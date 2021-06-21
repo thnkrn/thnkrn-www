@@ -1,15 +1,6 @@
 const withPlugins = require('next-compose-plugins')
-const withOptimizedImages = require('next-optimized-images')
 
-const nextPlugins = [
-  withOptimizedImages,
-  {
-    images: {
-      // Ref: https://github.com/cyrilwanner/next-optimized-images/tree/canary @next.config.js section.
-      handleImages: ['jpeg', 'png'],
-    },
-  },
-]
+const nextPlugins = []
 
 if (process.env.ANALYZE === 'true') {
   nextPlugins.push(

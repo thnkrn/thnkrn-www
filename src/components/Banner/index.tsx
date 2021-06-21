@@ -80,37 +80,41 @@ const StyledPositionTitle = styled.span`
   margin-left: 10px;
 `
 
-const Banner = ({ isPhone }: Props) => (
-  <StyledProfileWrapper>
-    <StyledProfileImage>
-      <StyledImage
-        src="/images/profile.jpeg"
-        alt="Picture of thnkrn"
-        width={1385}
-        height={1385}
-        sizes={isPhone ? '50vw' : '35vw'}
-        layout="responsive"
-        quality="100"
-        placeholder="blur"
-        blurDataURL={`data:image/svg+xml;base64,${useShimmer(1385, 1385)}`}
-      />
-      <StyledLocation>
-        <Icon src={ICONS.location} />
-        <span className={TYPO.body2} style={{ marginLeft: '5px' }}>
-          Bangkok, Thailand
-        </span>
-      </StyledLocation>
-    </StyledProfileImage>
-    <StyledTextWrapper>
-      <span className={TYPO.body1}>Hi, I'm</span>
-      <h1 className={TYPO.h1}>Thanakorn Ariyagusolsuthi</h1>
-      <StyledPosition>
-        <StyledPositionTitle className={TYPO.italic2}>
-          Assistant Manager, Software Engineer
-        </StyledPositionTitle>
-      </StyledPosition>
-    </StyledTextWrapper>
-  </StyledProfileWrapper>
-)
+const Banner = ({ isPhone }: Props) => {
+  const shimmer = useShimmer(1385, 1385)
+
+  return (
+    <StyledProfileWrapper>
+      <StyledProfileImage>
+        <StyledImage
+          src="/images/profile.jpeg"
+          alt="Picture of thnkrn"
+          width={1385}
+          height={1385}
+          sizes={isPhone ? '50vw' : '35vw'}
+          layout="responsive"
+          quality="100"
+          placeholder="blur"
+          blurDataURL={`data:image/svg+xml;base64,${shimmer}`}
+        />
+        <StyledLocation>
+          <Icon src={ICONS.location} />
+          <span className={TYPO.body2} style={{ marginLeft: '5px' }}>
+            Bangkok, Thailand
+          </span>
+        </StyledLocation>
+      </StyledProfileImage>
+      <StyledTextWrapper>
+        <span className={TYPO.body1}>Hi, I'm</span>
+        <h1 className={TYPO.h1}>Thanakorn Ariyagusolsuthi</h1>
+        <StyledPosition>
+          <StyledPositionTitle className={TYPO.italic2}>
+            Assistant Manager, Software Engineer
+          </StyledPositionTitle>
+        </StyledPosition>
+      </StyledTextWrapper>
+    </StyledProfileWrapper>
+  )
+}
 
 export default Banner

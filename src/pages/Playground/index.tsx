@@ -81,6 +81,8 @@ const Playground = () => {
   const { isPhone, fetchDevice } = useIsPhone()
   const totalList = PLAYGROUND_LIST.length
 
+  const shimmer = useShimmer(1920, 1080)
+
   useEffect(() => {
     fetchDevice()
   }, [fetchDevice])
@@ -101,7 +103,7 @@ const Playground = () => {
                     layout="responsive"
                     sizes={isPhone ? '70vw' : '30vw'}
                     placeholder="blur"
-                    blurDataURL={`data:image/svg+xml;base64,${useShimmer(1920, 1080)}`}
+                    blurDataURL={`data:image/svg+xml;base64,${shimmer}`}
                   />
                 </StyledImage>
                 <StyledTextWrapper>

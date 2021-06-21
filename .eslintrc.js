@@ -45,5 +45,9 @@ module.exports = {
     'unicorn/prevent-abbreviations': 'off',
     'react/jsx-props-no-spreading': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
+    'react/button-has-type': 'off',
+    'import/prefer-default-export': 'off',
+    '@typescript-eslint/no-unsafe-call': 'off',
+    'react/no-array-index-key': 'off',
   },
 }
