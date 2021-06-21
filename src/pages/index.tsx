@@ -1,5 +1,5 @@
 import Banner from 'components/Banner'
-import useIsPhone from 'components/Custom-hooks/useIsPhone'
+import useIsPhone from 'components/CustomHooks/useIsPhone'
 import EXED from 'components/EXED'
 import Info from 'components/Info'
 import Layout from 'components/Layout'

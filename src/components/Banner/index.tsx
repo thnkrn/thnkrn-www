@@ -1,5 +1,6 @@
 import { styled } from '@compiled/react'
 import Icon from 'components/Common/Icon'
+import useShimmer from 'components/CustomHooks/useShimmer'
 import { ICONS } from 'constants/icons'
 import TYPO from 'constants/typography'
 import Image from 'next/image'
@@ -90,6 +91,8 @@ const Banner = ({ isPhone }: Props) => (
         sizes={isPhone ? '50vw' : '35vw'}
         layout="responsive"
         quality="100"
+        placeholder="blur"
+        blurDataURL={`data:image/svg+xml;base64,${useShimmer(1385, 1385)}`}
       />
       <StyledLocation>
         <Icon src={ICONS.location} />

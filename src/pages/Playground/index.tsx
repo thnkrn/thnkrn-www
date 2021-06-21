@@ -1,5 +1,6 @@
 import { styled } from '@compiled/react'
-import useIsPhone from 'components/Custom-hooks/useIsPhone'
+import useIsPhone from 'components/CustomHooks/useIsPhone'
+import useShimmer from 'components/CustomHooks/useShimmer'
 import Layout from 'components/Layout'
 import { PLAYGROUND_LIST } from 'constants/playground'
 import TYPO from 'constants/typography'
@@ -99,6 +100,8 @@ const Playground = () => {
                     height={1080}
                     layout="responsive"
                     sizes={isPhone ? '70vw' : '30vw'}
+                    placeholder="blur"
+                    blurDataURL={`data:image/svg+xml;base64,${useShimmer(1920, 1080)}`}
                   />
                 </StyledImage>
                 <StyledTextWrapper>
