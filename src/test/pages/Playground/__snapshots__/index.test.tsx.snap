@@ -1,0 +1,276 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Playground Rendering should match snapshot 1`] = `
+<DocumentFragment>
+  <style
+    data-cmpld="true"
+  >
+    ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._kqsw1if8{position:sticky}._154iidpf{top:0}._ca0qgktf{padding-top:20px}._u5f3gktf{padding-right:20px}._n3tdgktf{padding-bottom:20px}._19bvgktf{padding-left:20px}._bfhk11x8{background-color:black}._1pbykb7n{z-index:1}._v564l48m{transition:background-color 0.7s ease}._n7zl1j9v{border-bottom:1px solid white}._otyru29b{margin-bottom:80px}._1f7s9fnn.active{background-color:rgb(29,29,31)}._aetr1yyf:after{content:''}._z0ai1osq:after{width:100%}._1qdgymf6:after{height:70px}._18postnw:after{position:absolute}._1bqqidpf:after{z-index:0}._15l2idpf:after{top:0}._19doidpf:after{left:0}@media screen and (max-width:480px){._183z1wqb{margin-bottom:60px}}
+  </style>
+  <nav
+    class="_183z1wqb _19pk1wug _2hwx1wug _otyru29b _18u01wug _kqsw1if8 _154iidpf _ca0qgktf _u5f3gktf _n3tdgktf _19bvgktf _bfhk11x8 _1pbykb7n _v564l48m _n7zl1j9v _1f7s9fnn _aetr1yyf _z0ai1osq _1qdgymf6 _18postnw _1bqqidpf _15l2idpf _19doidpf"
+  >
+    <style
+      data-cmpld="true"
+    >
+      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}
+    </style>
+    <div
+      class="_1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._16jlkb7n{flex-grow:1}._1o9zkb7n{flex-shrink:1}._i0dlidpf{flex-basis:0}
+      </style>
+      <span
+        class="_16jlkb7n _1o9zkb7n _i0dlidpf"
+      >
+        <a
+          href="/"
+        >
+          THNKRN
+        </a>
+      </span>
+      <style
+        data-cmpld="true"
+      >
+        ._y3gnh9n0{text-align:end}
+      </style>
+      <div
+        class="_16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._oxk41mvx a:hover{color:#36363a}
+        </style>
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </span>
+         | 
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/Playground"
+          >
+            Playground
+          </a>
+        </span>
+      </div>
+    </div>
+  </nav>
+  <style
+    data-cmpld="true"
+  >
+    ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._1bsb13sl{width:85%}
+  </style>
+  <div
+    class="_19pk1wug _2hwx1wug _otyr1wug _18u01wug _1bsb13sl"
+  >
+    <style
+      data-cmpld="true"
+    >
+      ._59381r31 a{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._yha2glyw a{-webkit-text-decoration-line:none;text-decoration-line:none}._1nmznqa1 a{-webkit-text-decoration-style:solid;text-decoration-style:solid}
+    </style>
+    <div
+      class="_59381r31 _yha2glyw _1nmznqa1"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._otyrgktf{margin-bottom:20px}._y3gn1h6o{text-align:center}@media screen and (max-width:480px){._17q21h6o{text-align:center}}
+      </style>
+      <h1
+        class="_17q21h6o _otyrgktf _y3gn1h6o h1"
+      >
+        Welcome to my Playground!
+      </h1>
+      <style
+        data-cmpld="true"
+      >
+        ._1hw71txw a{display:flex}._6wji1h6o a{align-items:center}._ep9t1ylp a{padding-top:40px}._9r1z1ylp a{padding-right:40px}._f5ga1ylp a{padding-bottom:40px}._hstc1ylp a{padding-left:40px}._1jua1fzn a{border-bottom:1px solid var(--thnkrn-white)}@media screen and (max-width:480px){._1f061bp4 a{flex-direction:column}._1ea31h6o a{justify-content:center}._12bq1h6o a{align-items:center}}
+      </style>
+      <div
+        class="_59381r31 _yha2glyw _1nmznqa1 _1hw71txw _6wji1h6o _ep9t1ylp _9r1z1ylp _f5ga1ylp _hstc1ylp _1jua1fzn _1f061bp4 _1ea31h6o _12bq1h6o"
+      >
+        <a
+          href="/Typography"
+        >
+          <style
+            data-cmpld="true"
+          >
+            ._1bsb1rnb{width:30vw}@media screen and (min-width:481px) and (max-width:1024px){}@media screen and (max-width:480px){._18l81osq{width:100%}}
+          </style>
+          <div
+            class="_18l81osq _1bsb1rnb"
+          >
+            <div
+              style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+            >
+              <div
+                style="display: block; box-sizing: border-box; padding-top: 56.25%;"
+              />
+              <noscript />
+              <img
+                decoding="async"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTkyMCIgdG89IjE5MjAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+);"
+              />
+            </div>
+          </div>
+          <style
+            data-cmpld="true"
+          >
+            ._1e0c1txw{display:flex}._2lx21bp4{flex-direction:column}._18u01l76{margin-left:5vw}._3i5v1fo9 .subtitle1{color:var(--thnkrn-blue)}._u6ey9lop .body1{margin-top:2vw}@media screen and (max-width:480px){._wf1nidpf{margin-left:0}._17q21h6o{text-align:center}}@media screen and (min-width:481px){._1hd3kb7n{flex-grow:1}._kcenkb7n{flex-shrink:1}._sipkidpf{flex-basis:0}}@media screen and (max-width:480px){._8zxlgktf .subtitle1{margin-top:20px}}
+          </style>
+          <div
+            class="_wf1nidpf _17q21h6o _1hd3kb7n _kcenkb7n _sipkidpf _1e0c1txw _2lx21bp4 _18u01l76 _3i5v1fo9 _8zxlgktf _u6ey9lop"
+          >
+            <span
+              class="subtitle1"
+            >
+              Typography
+            </span>
+            <span
+              class="body1"
+            >
+              Simple ways to use a font styling in your website by Typography design system
+            </span>
+          </div>
+        </a>
+      </div>
+      <div
+        class="_59381r31 _yha2glyw _1nmznqa1 _1hw71txw _6wji1h6o _ep9t1ylp _9r1z1ylp _f5ga1ylp _hstc1ylp _1jua1fzn _1f061bp4 _1ea31h6o _12bq1h6o"
+      >
+        <a
+          href="/Image-static-site"
+        >
+          <div
+            class="_18l81osq _1bsb1rnb"
+          >
+            <div
+              style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+            >
+              <div
+                style="display: block; box-sizing: border-box; padding-top: 56.25%;"
+              />
+              <noscript />
+              <img
+                decoding="async"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTkyMCIgdG89IjE5MjAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+);"
+              />
+            </div>
+          </div>
+          <div
+            class="_wf1nidpf _17q21h6o _1hd3kb7n _kcenkb7n _sipkidpf _1e0c1txw _2lx21bp4 _18u01l76 _3i5v1fo9 _8zxlgktf _u6ey9lop"
+          >
+            <span
+              class="subtitle1"
+            >
+              Image component for static site 
+            </span>
+            <span
+              class="body1"
+            >
+              Next/Image not supported static site, nvm!, I have alternative for you
+            </span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  <style
+    data-cmpld="true"
+  >
+    ._syaz1x77{color:white}._19pku29b{margin-top:80px}._y3gn1h6o{text-align:center}._x3doxja1{border-top:1px solid #fff}._ca0qgktf{padding-top:20px}._u5f3gktf{padding-right:20px}._n3tdgktf{padding-bottom:20px}._19bvgktf{padding-left:20px}@media screen and (max-width:480px){._za9y1wqb{margin-top:60px}}
+  </style>
+  <footer
+    class="_za9y1wqb _syaz1x77 _19pku29b _y3gn1h6o _x3doxja1 _ca0qgktf _u5f3gktf _n3tdgktf _19bvgktf"
+  >
+    <style
+      data-cmpld="true"
+    >
+      ._1e0c1txw{display:flex}._1bah1h6o{justify-content:center}._19pk1ylp{margin-top:40px}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}._za9y19bv{margin-top:10px}}
+    </style>
+    <div
+      class="_46cc1bp4 _za9y19bv _1e0c1txw _1bah1h6o _19pk1ylp"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._4cvr1h6o{align-items:center}._1ipk1l7b span{margin-top:3px}._1kdcidpf span{margin-right:0}._3glyidpf span{margin-bottom:0}._1w2u19bv span{margin-left:10px}._19qr12am:not(:first-child){margin-left:50px}@media screen and (max-width:480px){._kv0z1txs:not(:first-child){margin-top:20px!important}._urhrgrf3:not(:first-child){margin-right:0!important}._17kpgrf3:not(:first-child){margin-bottom:0!important}._1ol6grf3:not(:first-child){margin-left:0!important}}
+      </style>
+      <div
+        class="_1e0c1txw _4cvr1h6o _1bah1h6o _1ipk1l7b _1kdcidpf _3glyidpf _1w2u19bv _19qr12am _kv0z1txs _urhrgrf3 _17kpgrf3 _1ol6grf3"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._1bsb1tcg{width:24px}._4t3i1tcg{height:24px}._tzy4idpf{opacity:0}._18t5kb7n.loaded{opacity:1}
+        </style>
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#email"
+          />
+        </svg>
+        <span
+          class="fancy"
+        >
+          t.ariyagusolsuthi@gmail.com
+        </span>
+      </div>
+      <div
+        class="_1e0c1txw _4cvr1h6o _1bah1h6o _1ipk1l7b _1kdcidpf _3glyidpf _1w2u19bv _19qr12am _kv0z1txs _urhrgrf3 _17kpgrf3 _1ol6grf3"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#github"
+          />
+        </svg>
+        <span
+          class="fancy"
+        >
+          <a
+            href="https://github.com/thnkrn"
+          >
+            Github
+          </a>
+        </span>
+      </div>
+      <div
+        class="_1e0c1txw _4cvr1h6o _1bah1h6o _1ipk1l7b _1kdcidpf _3glyidpf _1w2u19bv _19qr12am _kv0z1txs _urhrgrf3 _17kpgrf3 _1ol6grf3"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#linkedin"
+          />
+        </svg>
+        <span
+          class="fancy"
+        >
+          <a
+            href="https://www.linkedin.com/in/thanakorn-ariyagusolsuthi"
+          >
+            Linkedin
+          </a>
+        </span>
+      </div>
+    </div>
+  </footer>
+</DocumentFragment>
+`;

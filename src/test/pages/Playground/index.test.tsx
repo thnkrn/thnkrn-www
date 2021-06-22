@@ -1,10 +1,10 @@
-import IndexPage from 'pages/index'
+import Playground from 'pages/Playground'
 import { render } from 'test/util'
 
-describe('Index', () => {
+describe('Playground', () => {
   describe('Rendering', () => {
     it('should match snapshot', () => {
-      const { asFragment } = render(<IndexPage />)
+      const { asFragment } = render(<Playground />)
 
       expect(asFragment()).toMatchSnapshot()
     })
