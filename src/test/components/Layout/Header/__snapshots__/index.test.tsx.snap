@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Rendering should match snapshot 1`] = `
+<DocumentFragment>
+  <style
+    data-cmpld="true"
+  >
+    ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._kqsw1if8{position:sticky}._154iidpf{top:0}._ca0qgktf{padding-top:20px}._u5f3gktf{padding-right:20px}._n3tdgktf{padding-bottom:20px}._19bvgktf{padding-left:20px}._bfhk11x8{background-color:black}._1pbykb7n{z-index:1}._v564l48m{transition:background-color 0.7s ease}._n7zl1j9v{border-bottom:1px solid white}._otyru29b{margin-bottom:80px}._1f7s9fnn.active{background-color:rgb(29,29,31)}._aetr1yyf:after{content:''}._z0ai1osq:after{width:100%}._1qdgymf6:after{height:70px}._18postnw:after{position:absolute}._1bqqidpf:after{z-index:0}._15l2idpf:after{top:0}._19doidpf:after{left:0}@media screen and (max-width:480px){._183z1wqb{margin-bottom:60px}}
+  </style>
+  <nav
+    class="_183z1wqb _19pk1wug _2hwx1wug _otyru29b _18u01wug _kqsw1if8 _154iidpf _ca0qgktf _u5f3gktf _n3tdgktf _19bvgktf _bfhk11x8 _1pbykb7n _v564l48m _n7zl1j9v _1f7s9fnn _aetr1yyf _z0ai1osq _1qdgymf6 _18postnw _1bqqidpf _15l2idpf _19doidpf"
+  >
+    <style
+      data-cmpld="true"
+    >
+      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}
+    </style>
+    <div
+      class="_1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._16jlkb7n{flex-grow:1}._1o9zkb7n{flex-shrink:1}._i0dlidpf{flex-basis:0}
+      </style>
+      <span
+        class="_16jlkb7n _1o9zkb7n _i0dlidpf"
+      >
+        <a
+          href="/"
+        >
+          THNKRN
+        </a>
+      </span>
+      <style
+        data-cmpld="true"
+      >
+        ._y3gnh9n0{text-align:end}
+      </style>
+      <div
+        class="_16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._oxk41mvx a:hover{color:#36363a}
+        </style>
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </span>
+         | 
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/Playground"
+          >
+            Playground
+          </a>
+        </span>
+      </div>
+    </div>
+  </nav>
+</DocumentFragment>
+`;

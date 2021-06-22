@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon Rendering should match snapshot 1`] = `
+<DocumentFragment>
+  <style
+    data-cmpld="true"
+  >
+    ._1bsb1tcg{width:24px}._4t3i1tcg{height:24px}._tzy4idpf{opacity:0}._18t5kb7n.loaded{opacity:1}
+  </style>
+  <svg
+    class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+  >
+    <use
+      href="/icons/icons-sprite.svg#email"
+    />
+  </svg>
+</DocumentFragment>
+`;

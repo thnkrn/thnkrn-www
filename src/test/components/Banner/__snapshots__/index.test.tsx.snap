@@ -1,0 +1,217 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Banner Rendering should match snapshot if it is desktop 1`] = `
+<DocumentFragment>
+  <style
+    data-cmpld="true"
+  >
+    ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._1bah1h6o{justify-content:center}._19pk9lop{margin-top:2vw}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}._za9yidpf{margin-top:0}}
+  </style>
+  <div
+    class="_46cc1bp4 _za9yidpf _1e0c1txw _4cvr1h6o _1bah1h6o _19pk9lop"
+  >
+    <style
+      data-cmpld="true"
+    >
+      ._1bsb1jyv{width:25vw}._2lx21bp4{flex-direction:column}@media screen and (max-width:480px){._18l8a4lr{width:50vw}}
+    </style>
+    <div
+      class="_18l8a4lr _1bsb1jyv _1e0c1txw _2lx21bp4"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._2rko1ssb{border-radius:50%}
+      </style>
+      <div
+        style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+      >
+        <div
+          style="display: block; box-sizing: border-box; padding-top: 100%;"
+        />
+        <noscript />
+        <img
+          alt="Picture of thnkrn"
+          class="_2rko1ssb"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjEzODUiIGhlaWdodD0iMTM4NSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTM4NSIgdG89IjEzODUiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+);"
+        />
+      </div>
+      <style
+        data-cmpld="true"
+      >
+        ._19pko7ao{margin-top:15px}
+      </style>
+      <div
+        class="_1e0c1txw _4cvr1h6o _1bah1h6o _19pko7ao"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._1bsb1tcg{width:24px}._4t3i1tcg{height:24px}._tzy4idpf{opacity:0}._18t5kb7n.loaded{opacity:1}
+        </style>
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#location"
+          />
+        </svg>
+        <span
+          class="body2"
+          style="margin-left: 5px;"
+        >
+          Bangkok, Thailand
+        </span>
+      </div>
+    </div>
+    <style
+      data-cmpld="true"
+    >
+      ._18u01l76{margin-left:5vw}._rzby19bv h1{margin-top:10px}._1tjq3eyv span{color:#88b1b3}@media screen and (max-width:480px){._za9yo7ao{margin-top:15px}._99s2idpf{margin-right:0}._183zidpf{margin-bottom:0}._wf1nidpf{margin-left:0}}
+    </style>
+    <div
+      class="_za9yo7ao _99s2idpf _183zidpf _wf1nidpf _1e0c1txw _2lx21bp4 _18u01l76 _rzby19bv _1tjq3eyv"
+    >
+      <span
+        class="body1"
+      >
+        Hi, I'm
+      </span>
+      <h1
+        class="h1"
+      >
+        Thanakorn Ariyagusolsuthi
+      </h1>
+      <style
+        data-cmpld="true"
+      >
+        ._19pk14y2{margin-top:5px}@media screen and (max-width:480px){._ygwp1txw{display:flex}._46cc1bp4{flex-direction:column}._1rkf1h6o{justify-content:center}._za9y19bv{margin-top:10px}}
+      </style>
+      <div
+        class="_ygwp1txw _46cc1bp4 _1rkf1h6o _za9y19bv _19pk14y2"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._18u019bv{margin-left:10px}@media screen and (max-width:480px){._wf1nidpf{margin-left:0}}
+        </style>
+        <span
+          class="_wf1nidpf _18u019bv italic2"
+        >
+          Assistant Manager, Software Engineer
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Banner Rendering should match snapshot if it is phone 1`] = `
+<DocumentFragment>
+  <style
+    data-cmpld="true"
+  >
+    ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._1bah1h6o{justify-content:center}._19pk9lop{margin-top:2vw}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}._za9yidpf{margin-top:0}}
+  </style>
+  <div
+    class="_46cc1bp4 _za9yidpf _1e0c1txw _4cvr1h6o _1bah1h6o _19pk9lop"
+  >
+    <style
+      data-cmpld="true"
+    >
+      ._1bsb1jyv{width:25vw}._2lx21bp4{flex-direction:column}@media screen and (max-width:480px){._18l8a4lr{width:50vw}}
+    </style>
+    <div
+      class="_18l8a4lr _1bsb1jyv _1e0c1txw _2lx21bp4"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._2rko1ssb{border-radius:50%}
+      </style>
+      <div
+        style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+      >
+        <div
+          style="display: block; box-sizing: border-box; padding-top: 100%;"
+        />
+        <noscript />
+        <img
+          alt="Picture of thnkrn"
+          class="_2rko1ssb"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjEzODUiIGhlaWdodD0iMTM4NSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTM4NSIgdG89IjEzODUiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+);"
+        />
+      </div>
+      <style
+        data-cmpld="true"
+      >
+        ._19pko7ao{margin-top:15px}
+      </style>
+      <div
+        class="_1e0c1txw _4cvr1h6o _1bah1h6o _19pko7ao"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._1bsb1tcg{width:24px}._4t3i1tcg{height:24px}._tzy4idpf{opacity:0}._18t5kb7n.loaded{opacity:1}
+        </style>
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#location"
+          />
+        </svg>
+        <span
+          class="body2"
+          style="margin-left: 5px;"
+        >
+          Bangkok, Thailand
+        </span>
+      </div>
+    </div>
+    <style
+      data-cmpld="true"
+    >
+      ._18u01l76{margin-left:5vw}._rzby19bv h1{margin-top:10px}._1tjq3eyv span{color:#88b1b3}@media screen and (max-width:480px){._za9yo7ao{margin-top:15px}._99s2idpf{margin-right:0}._183zidpf{margin-bottom:0}._wf1nidpf{margin-left:0}}
+    </style>
+    <div
+      class="_za9yo7ao _99s2idpf _183zidpf _wf1nidpf _1e0c1txw _2lx21bp4 _18u01l76 _rzby19bv _1tjq3eyv"
+    >
+      <span
+        class="body1"
+      >
+        Hi, I'm
+      </span>
+      <h1
+        class="h1"
+      >
+        Thanakorn Ariyagusolsuthi
+      </h1>
+      <style
+        data-cmpld="true"
+      >
+        ._19pk14y2{margin-top:5px}@media screen and (max-width:480px){._ygwp1txw{display:flex}._46cc1bp4{flex-direction:column}._1rkf1h6o{justify-content:center}._za9y19bv{margin-top:10px}}
+      </style>
+      <div
+        class="_ygwp1txw _46cc1bp4 _1rkf1h6o _za9y19bv _19pk14y2"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._18u019bv{margin-left:10px}@media screen and (max-width:480px){._wf1nidpf{margin-left:0}}
+        </style>
+        <span
+          class="_wf1nidpf _18u019bv italic2"
+        >
+          Assistant Manager, Software Engineer
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
