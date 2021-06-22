@@ -1,6 +1,8 @@
 name: Lighthouse Mobile Config
 
 on:
+  push:
+    - master
   schedule:
     - cron: '0 13 * * 1'
   repository_dispatch:
