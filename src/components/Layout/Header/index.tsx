@@ -66,6 +66,7 @@ const StyledLink = styled.span`
 const Header = () => {
   const [isNavScroll, setIsNavScroll] = useState(false)
 
+  /* istanbul ignore next */
   useEffect(() => {
     const changeNavBG = () => {
       if (window.scrollY >= 50) {

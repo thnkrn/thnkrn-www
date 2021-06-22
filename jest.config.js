@@ -1,5 +1,11 @@
 module.exports = {
-  collectCoverageFrom: ['src/**/*.{ts,tsx,js,jsx}'],
+  collectCoverageFrom: [
+    'src/**/*.{ts,tsx,js,jsx}',
+    '!src/test/**',
+    '!src/constants/**',
+    '!src/pages/_app.tsx',
+    '!src/pages/_document.tsx',
+  ],
   coverageReporters: ['json', 'lcov', 'text', 'text-summary', 'clover', 'cobertura'],
   coverageThreshold: {
     global: {
@@ -15,6 +21,7 @@ module.exports = {
     'components/(.*)': '<rootDir>/src/components/$1',
     'pages/(.*)': '<rootDir>/src/pages/$1',
     'test/(.*)': '<rootDir>/src/test/$1',
+    '^constants/(.*)$': '<rootDir>/src/constants/$1',
   },
   roots: ['<rootDir>'],
   setupFilesAfterEnv: ['<rootDir>/src/test/setup.ts'],
@@ -23,4 +30,4 @@ module.exports = {
     '^.+\\.(ts|tsx)$': 'babel-jest',
   },
   transformIgnorePatterns: ['[/\\\\]node_modules[/\\\\].+\\.(ts|tsx)$'],
-};
+}

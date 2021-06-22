@@ -1,10 +1,10 @@
-import IndexPage from 'pages/index'
+import ImageStaticSite from 'pages/Image-static-site'
 import { render } from 'test/util'
 
-describe('Index', () => {
+describe('ImageStaticSite', () => {
   describe('Rendering', () => {
     it('should match snapshot', () => {
-      const { asFragment } = render(<IndexPage />)
+      const { asFragment } = render(<ImageStaticSite />)
 
       expect(asFragment()).toMatchSnapshot()
     })

@@ -1,10 +1,10 @@
-import IndexPage from 'pages/index'
+import Footer from 'components/Layout/Footer'
 import { render } from 'test/util'
 
-describe('Index', () => {
+describe('Footer', () => {
   describe('Rendering', () => {
     it('should match snapshot', () => {
-      const { asFragment } = render(<IndexPage />)
+      const { asFragment } = render(<Footer />)
 
       expect(asFragment()).toMatchSnapshot()
     })

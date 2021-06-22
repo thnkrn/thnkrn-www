@@ -15,6 +15,7 @@ const shimmerPlaceholder = (w: number, h: number) => `
 </svg>`
 
 const toBase64 = (str: string) =>
+  /* istanbul ignore next */
   typeof window === 'undefined' ? Buffer.from(str).toString('base64') : window.btoa(str)
 
 const useShimmer = (width: number, height: number) => {

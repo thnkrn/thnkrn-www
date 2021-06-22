@@ -1,10 +1,10 @@
-import IndexPage from 'pages/index'
+import LazyContent from 'components/LazyContent'
 import { render } from 'test/util'
 
-describe('Index', () => {
+describe('LazyContent', () => {
   describe('Rendering', () => {
     it('should match snapshot', () => {
-      const { asFragment } = render(<IndexPage />)
+      const { asFragment } = render(<LazyContent />)
 
       expect(asFragment()).toMatchSnapshot()
     })

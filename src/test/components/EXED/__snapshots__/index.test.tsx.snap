@@ -1,0 +1,325 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EXED Rendering should match snapshot 1`] = `
+<DocumentFragment>
+  <style
+    data-cmpld="true"
+  >
+    ._19pk12xx{margin-top:100px}._2hwx12am{margin-right:50px}._otyr12xx{margin-bottom:100px}._18u012am{margin-left:50px}@media screen and (min-width:481px) and (max-width:1024px){._d7rp1wqb{margin-top:60px}._12e9gktf{margin-right:20px}._wnlt1wqb{margin-bottom:60px}._17npgktf{margin-left:20px}}@media screen and (max-width:480px){._za9y1fu0{margin-top:40px!important}._99s2grf3{margin-right:0!important}._183z1fu0{margin-bottom:40px!important}._wf1ngrf3{margin-left:0!important}}
+  </style>
+  <div
+    class="_d7rp1wqb _12e9gktf _wnlt1wqb _17npgktf _za9y1fu0 _99s2grf3 _183z1fu0 _wf1ngrf3 _19pk12xx _2hwx12am _otyr12xx _18u012am"
+  >
+    <h2
+      class="h2"
+    >
+      Experience
+    </h2>
+    <style
+      data-cmpld="true"
+    >
+      ._19pk1ul9{margin-top:30px}
+    </style>
+    <div
+      class="_19pk1ul9"
+    >
+      <style
+        data-cmpld="true"
+      >
+        ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._1w2uo7ao span{margin-left:15px}._zwmc13v7 .fancy{color:var(--thnkrn-pink)}._hdg014y2 .fancy{margin-top:5px}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}._1rkf1h6o{justify-content:center}._17q21h6o{text-align:center}._50uugrf3 span{margin-left:0!important}}
+      </style>
+      <div
+        class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#work"
+          />
+        </svg>
+        <span
+          class="body1"
+        >
+          Assistant Manager, Full-stack Developer
+        </span>
+        <span
+          class="fancy"
+        >
+          (Jan 2021 - Present)
+        </span>
+      </div>
+      <style
+        data-cmpld="true"
+      >
+        ._19pko7ao{margin-top:15px}._2hwxidpf{margin-right:0}._otyridpf{margin-bottom:0}._18u010mc{margin-left:38px}@media screen and (max-width:480px){._za9ygrf3{margin-top:0!important}._99s2grf3{margin-right:0!important}._183zgrf3{margin-bottom:0!important}._wf1ngrf3{margin-left:0!important}}
+      </style>
+      <div
+        class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+      >
+        <style
+          data-cmpld="true"
+        >
+          ._rd6q1fo9 .body1{color:var(--thnkrn-blue)}._1qhuo7ao .fancy{margin-left:15px}@media screen and (max-width:480px){._ygwp1txw{display:flex}._46cc1bp4{flex-direction:column}._1rkf1h6o{justify-content:center}._17q21h6o{text-align:center}._za9yo7ao{margin-top:15px}._1uw3grf3 .fancy{margin-left:0!important}}
+        </style>
+        <div
+          class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+        >
+          <span
+            class="body1"
+          >
+            Prudential Life Assurance Public Company Ltd. (Thailand)
+          </span>
+          <span
+            class="fancy"
+          >
+            (Full-time)
+          </span>
+        </div>
+        <style
+          data-cmpld="true"
+        >
+          ._2lx21bp4{flex-direction:column}._1ipko7ao span{margin-top:15px}@media screen and (max-width:480px){._za9yo7ao{margin-top:15px}._17q2cvlb{text-align:justify}._15yx6vc6{white-space:pre-line}}
+        </style>
+        <div
+          class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+        >
+          <span>
+            Move back to full-stack developer after focusing on a front-end side for 2 years, but for the back-end side, I'm working for only the BFF or backend for frontend part, not the mainstream for back-end developer, we having an actual backend team which is served the data for us like AS-400 or Java developer team.
+          </span>
+          <span>
+            A further step from the previous position, I'm having new opportunities to help with the guidance of new tech stack or the new principle, helping the team to build up a standardized or improvement both on tech performance and team well-being.
+          </span>
+          <span>
+            As a big company, we mostly handle many projects and need to serve fast and go for both internal and external users that involving me to familiar with many scrapfold and how to build a template to make suitable for each project. As mentioned that leads me to have an experience with many tech stuffs and usually need to resarch an up-to-date tech systems.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_19pk1ul9"
+    >
+      <div
+        class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#work"
+          />
+        </svg>
+        <span
+          class="body1"
+        >
+          Senior, Software Engineer
+        </span>
+        <span
+          class="fancy"
+        >
+          (Jul 2020 – Dec 2020)
+        </span>
+      </div>
+      <div
+        class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+      >
+        <div
+          class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+        >
+          <span
+            class="body1"
+          >
+            Pomelo Fashion
+          </span>
+          <span
+            class="fancy"
+          >
+            (Full-time)
+          </span>
+        </div>
+        <div
+          class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+        >
+          <span>
+            As a Senior, I have to take more responsibility not only the coding skill but also for helping the team to manage the tasks and estimate the incoming requirements. From that point, I have a new opportunity to collaborate with the other teams in the business meeting and have a chance to define the internal processes and initiatives to help the team accomplish its mission.
+          </span>
+          <span>
+            Moreover, not focusing on coding the new features and serve users as requirements, I also have to involve in web monitoring, infrastructure monitoring, and manage the outsourcing for web team.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_19pk1ul9"
+    >
+      <div
+        class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#work"
+          />
+        </svg>
+        <span
+          class="body1"
+        >
+          Software Engineer
+        </span>
+        <span
+          class="fancy"
+        >
+          (Jun 2019 – Jun 2020)
+        </span>
+      </div>
+      <div
+        class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+      >
+        <div
+          class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+        >
+          <span
+            class="body1"
+          >
+            Pomelo Fashion
+          </span>
+          <span
+            class="fancy"
+          >
+            (Full-time)
+          </span>
+        </div>
+        <div
+          class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+        >
+          <span>
+            Being a React developer with Next.JS framework and perform on many tasks of requirement. Starting with the marketing part, developed on a landing page or special campaign for Pomelo fashion mostly use a coding skill on the UI part and animation.
+          </span>
+          <span>
+            Second, on the product tribe, creating and developing the new features or focusing on develope the product for the business part for this kind of development will mainly focus on the logic part.
+          </span>
+          <span>
+             Following by coding on performance squad, mainly focus on how to develop and make the website be faster and more stable like responsive component, refactor code, redesign component, config file, or every kind of the web performance things.
+          </span>
+          <span>
+            Lastly, being a frontend DevOps, managing AWS like Elastic Beanstalk, EC2 or Cloudfront. Creating the CSP for the website and Moving web project from BitBucket to GitHub. Managing and moving web project to the Docker and Kubernetes.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_19pk1ul9"
+    >
+      <div
+        class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#work"
+          />
+        </svg>
+        <span
+          class="body1"
+        >
+          Full-stack Developer
+        </span>
+        <span
+          class="fancy"
+        >
+          (Jun 2018 – Sep 2018)
+        </span>
+      </div>
+      <div
+        class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+      >
+        <div
+          class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+        >
+          <span
+            class="body1"
+          >
+            Prudential Life Assurance Public Company Ltd. (Thailand)
+          </span>
+          <span
+            class="fancy"
+          >
+            (Internship)
+          </span>
+        </div>
+        <div
+          class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+        >
+          <span>
+            Internship for 2 months, being a software and artificial intelligence engineer
+          </span>
+          <span>
+            Creating a KYC mobile application that is used for cleansing and managing the customer database. I created a KYC app on Ionic 3 which is the mobile app framework is built on Angular and used JS, SCSS, and HTML to create the application. KYC app consists of 3 functions that use AI for 2 main functions.
+          </span>
+          <span>
+            First, I used the Amazon Web Service for Rekognition in order to compare selfie face with the picture in ID card of the customer, the app will return the similarity score for above 90 percent, below that its mean not match. I used Node.JS to create this back-end function and warp with the Express.JS after that send it to the cloud function for using in the application via Heroku.
+          </span>
+          <span>
+            Next function, the app will collect the information of customer from ID card by using the OCR function in order to reduce the processing time for users. I used the Google Vision to set the size of the ID card and the boxes of each field to collect all of the user's information.
+          </span>
+          <span>
+            Followed by the last function, the app will send the user's information to the Revenue Department of Thailand to check the validity of ID card. The result will return in the status of death, loss, or valid/invalid of the card. This application help the company a lot for cleansing the invalid data because the company had a million user data.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_19pk1ul9"
+    >
+      <div
+        class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#work"
+          />
+        </svg>
+        <span
+          class="body1"
+        >
+          Full-stack Developer
+        </span>
+        <span
+          class="fancy"
+        >
+          (Jun 2017 – Sep 2018)
+        </span>
+      </div>
+      <div
+        class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+      >
+        <div
+          class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+        >
+          <span
+            class="body1"
+          >
+            Fastwork Technologies Co., Ltd.
+          </span>
+          <span
+            class="fancy"
+          >
+            (Freelance)
+          </span>
+        </div>
+        <div
+          class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+        >
+          <span>
+            Working as a freelance developer via studying at the university for developing mobile or web application, mostly focusing on Front-end stuff
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

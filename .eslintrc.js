@@ -49,5 +49,6 @@ module.exports = {
     'import/prefer-default-export': 'off',
     '@typescript-eslint/no-unsafe-call': 'off',
     'react/no-array-index-key': 'off',
+    '@typescript-eslint/ban-ts-comment': 'off',
   },
 }
