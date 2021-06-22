@@ -1,8 +1,9 @@
 # THNKRN's www is the website that represent about my personal information, my experience and my playground
 
-<!-- ![Lighthouse Mobile Config](https://github.com/thnkrn/thnkrn-www/workflows/Lighthouse%20Mobile%20Config/badge.svg)
+![Lighthouse Mobile Config](https://github.com/thnkrn/thnkrn-www/workflows/Lighthouse%20Mobile%20Config/badge.svg)
 ![Lighthouse Desktop Config](https://github.com/thnkrn/thnkrn-www/workflows/Lighthouse%20Desktop%20Config/badge.svg)
-![Lighthouse Budget](https://github.com/thnkrn/thnkrn-www/workflows/Lighthouse%20Budget/badge.svg) -->
+![Lighthouse Budget](https://github.com/thnkrn/thnkrn-www/workflows/Lighthouse%20Budget/badge.svg)
+[![codecov](https://codecov.io/gh/thnkrn/thnkrn-www/branch/master/graph/badge.svg?token=L3HUGKZ6S2)](https://codecov.io/gh/thnkrn/thnkrn-www)
 
 ## Deployment
 
