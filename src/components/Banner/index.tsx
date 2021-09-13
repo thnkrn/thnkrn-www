@@ -37,10 +37,10 @@ const StyledProfileImage = styled.div`
   width: 25vw;
   display: flex;
   flex-direction: column;
-`
 
-const StyledImage = styled(Image)`
-  border-radius: 50%;
+  .image {
+    border-radius: 50%;
+  }
 `
 
 const StyledTextWrapper = styled.div`
@@ -86,7 +86,8 @@ const Banner = ({ isPhone }: Props) => {
   return (
     <StyledProfileWrapper>
       <StyledProfileImage>
-        <StyledImage
+        <Image
+          className="image"
           src="/images/profile.jpeg"
           alt="Picture of thnkrn"
           width={1385}
