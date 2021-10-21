@@ -110,7 +110,7 @@ const Banner = ({ isPhone }: Props) => {
         <h1 className={TYPO.h1}>Thanakorn Ariyagusolsuthi</h1>
         <StyledPosition>
           <StyledPositionTitle className={TYPO.italic2}>
-            Assistant Manager, Software Engineer
+            Software Engineer
           </StyledPositionTitle>
         </StyledPosition>
       </StyledTextWrapper>
