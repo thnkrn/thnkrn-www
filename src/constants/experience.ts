@@ -1,7 +1,16 @@
 export const EXPERIENCE = [
   {
+    title: 'Application Development Senior Analyst',
+    duration: '(Oct 2021 - Present)',
+    location: 'Accenture',
+    type: '(Full-time)',
+    desc: [
+      `Working as a frontend engineer for the ATCT or Accenture Technology Center Thailand which is separate from the Accenture Thailand. ATC is the technology center which is directed to the Accenture Global and for the Thailand center, we are apart of the ATC in SEA`
+    ],
+  },
+  {
     title: 'Assistant Manager, Full-stack Developer',
-    duration: '(Jan 2021 - Present)',
+    duration: '(Jan 2021 - Sep 2021)',
     location: 'Prudential Life Assurance Public Company Ltd. (Thailand)',
     type: '(Full-time)',
     desc: [
