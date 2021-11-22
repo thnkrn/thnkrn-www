@@ -5,7 +5,7 @@ export const EXPERIENCE = [
     location: 'Accenture',
     type: '(Full-time)',
     desc: [
-      `Working as a frontend engineer for the ATCT or Accenture Technology Center Thailand which is separate from the Accenture Thailand. ATC is the technology center which is directed to the Accenture Global and for the Thailand center, we are apart of the ATC in SEA.`
+      `Working as a frontend engineer for the ATCT or Accenture Technology Center Thailand which is separate from Accenture Thailand. ATC is the technology center that is directed to Accenture Global and for the Thailand center, we are a part of the ATC in SEA. My responsibilities are to help the team build culture, standardize and provide the solution to solve the requirements, and also mentor the junior team members.`,
     ],
   },
   {
