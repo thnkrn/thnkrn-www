@@ -40,9 +40,6 @@ const StyledWrapper = styled.div`
 `
 
 const StyledImage = styled.div`
-  @media screen and (min-width: 481px) and (max-width: 1024px) {
-  }
-
   @media screen and (max-width: 480px) {
     width: 100%;
   }

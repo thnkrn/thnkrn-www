@@ -33,6 +33,10 @@ const Nav = styled.nav`
 `
 
 const StyledContainer = styled.div`
+  @media screen and (max-width: 480px) {
+    flex-direction: column;
+  }
+
   display: flex;
   align-items: center;
   height: 40px;
@@ -51,6 +55,10 @@ const StyledTitle = styled.span`
 `
 
 const StyledLinkWrapper = styled.div`
+  @media screen and (max-width: 480px) {
+    margin-top: 10px;
+  }
+
   flex: 1;
   text-align: end;
 `
@@ -99,6 +107,12 @@ const Header = () => {
           <StyledLink>
             <Link href="/">
               <a>Home</a>
+            </Link>
+          </StyledLink>
+          &nbsp;|&nbsp;
+          <StyledLink>
+            <Link href="/Certifications">
+              <a>Certifications</a>
             </Link>
           </StyledLink>
           &nbsp;|&nbsp;
