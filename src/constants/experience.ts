@@ -1,6 +1,6 @@
 export const EXPERIENCE = [
   {
-    title: 'Senior Product (Software) Engineer',
+    title: 'Senior Software Engineer',
     duration: '(Jan 2021 - Present)',
     location: 'True Digital Group',
     type: '(Full-time)',
