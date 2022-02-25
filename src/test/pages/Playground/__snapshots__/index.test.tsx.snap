@@ -13,10 +13,10 @@ exports[`Playground Rendering should match snapshot if it is desktop 1`] = `
     <style
       data-cmpld="true"
     >
-      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}
+      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}}
     </style>
     <div
-      class="_1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
+      class="_46cc1bp4 _1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
     >
       <style
         data-cmpld="true"
@@ -35,10 +35,10 @@ exports[`Playground Rendering should match snapshot if it is desktop 1`] = `
       <style
         data-cmpld="true"
       >
-        ._y3gnh9n0{text-align:end}
+        ._y3gnh9n0{text-align:end}@media screen and (max-width:480px){._za9y19bv{margin-top:10px}}
       </style>
       <div
-        class="_16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
+        class="_za9y19bv _16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
       >
         <style
           data-cmpld="true"
@@ -52,6 +52,16 @@ exports[`Playground Rendering should match snapshot if it is desktop 1`] = `
             href="/"
           >
             Home
+          </a>
+        </span>
+         | 
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/Certifications"
+          >
+            Certifications
           </a>
         </span>
          | 
@@ -107,16 +117,16 @@ exports[`Playground Rendering should match snapshot if it is desktop 1`] = `
           <style
             data-cmpld="true"
           >
-            ._1bsb1rnb{width:30vw}@media screen and (min-width:481px) and (max-width:1024px){}@media screen and (max-width:480px){._18l81osq{width:100%}}
+            ._1bsb1rnb{width:30vw}@media screen and (max-width:480px){._18l81osq{width:100%}}
           </style>
           <div
             class="_18l81osq _1bsb1rnb"
           >
-            <div
-              style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+            <span
+              style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
             >
-              <div
-                style="display: block; box-sizing: border-box; padding-top: 56.25%;"
+              <span
+                style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 56.25% 0px 0px 0px;"
               />
               <img
                 data-nimg="responsive"
@@ -125,7 +135,7 @@ exports[`Playground Rendering should match snapshot if it is desktop 1`] = `
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTkyMCIgdG89IjE5MjAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+); background-position: 0% 0%;"
               />
               <noscript />
-            </div>
+            </span>
           </div>
           <style
             data-cmpld="true"
@@ -157,11 +167,11 @@ exports[`Playground Rendering should match snapshot if it is desktop 1`] = `
           <div
             class="_18l81osq _1bsb1rnb"
           >
-            <div
-              style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+            <span
+              style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
             >
-              <div
-                style="display: block; box-sizing: border-box; padding-top: 56.25%;"
+              <span
+                style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 56.25% 0px 0px 0px;"
               />
               <img
                 data-nimg="responsive"
@@ -170,7 +180,7 @@ exports[`Playground Rendering should match snapshot if it is desktop 1`] = `
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTkyMCIgdG89IjE5MjAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+); background-position: 0% 0%;"
               />
               <noscript />
-            </div>
+            </span>
           </div>
           <div
             class="_wf1nidpf _17q21h6o _1hd3kb7n _kcenkb7n _sipkidpf _1e0c1txw _2lx21bp4 _18u01l76 _3i5v1fo9 _8zxlgktf _u6ey9lop"
@@ -290,10 +300,10 @@ exports[`Playground Rendering should match snapshot if it is phone 1`] = `
     <style
       data-cmpld="true"
     >
-      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}
+      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}}
     </style>
     <div
-      class="_1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
+      class="_46cc1bp4 _1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
     >
       <style
         data-cmpld="true"
@@ -312,10 +322,10 @@ exports[`Playground Rendering should match snapshot if it is phone 1`] = `
       <style
         data-cmpld="true"
       >
-        ._y3gnh9n0{text-align:end}
+        ._y3gnh9n0{text-align:end}@media screen and (max-width:480px){._za9y19bv{margin-top:10px}}
       </style>
       <div
-        class="_16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
+        class="_za9y19bv _16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
       >
         <style
           data-cmpld="true"
@@ -329,6 +339,16 @@ exports[`Playground Rendering should match snapshot if it is phone 1`] = `
             href="/"
           >
             Home
+          </a>
+        </span>
+         | 
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/Certifications"
+          >
+            Certifications
           </a>
         </span>
          | 
@@ -384,16 +404,16 @@ exports[`Playground Rendering should match snapshot if it is phone 1`] = `
           <style
             data-cmpld="true"
           >
-            ._1bsb1rnb{width:30vw}@media screen and (min-width:481px) and (max-width:1024px){}@media screen and (max-width:480px){._18l81osq{width:100%}}
+            ._1bsb1rnb{width:30vw}@media screen and (max-width:480px){._18l81osq{width:100%}}
           </style>
           <div
             class="_18l81osq _1bsb1rnb"
           >
-            <div
-              style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+            <span
+              style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
             >
-              <div
-                style="display: block; box-sizing: border-box; padding-top: 56.25%;"
+              <span
+                style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 56.25% 0px 0px 0px;"
               />
               <img
                 data-nimg="responsive"
@@ -402,7 +422,7 @@ exports[`Playground Rendering should match snapshot if it is phone 1`] = `
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTkyMCIgdG89IjE5MjAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+); background-position: 0% 0%;"
               />
               <noscript />
-            </div>
+            </span>
           </div>
           <style
             data-cmpld="true"
@@ -434,11 +454,11 @@ exports[`Playground Rendering should match snapshot if it is phone 1`] = `
           <div
             class="_18l81osq _1bsb1rnb"
           >
-            <div
-              style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+            <span
+              style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
             >
-              <div
-                style="display: block; box-sizing: border-box; padding-top: 56.25%;"
+              <span
+                style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 56.25% 0px 0px 0px;"
               />
               <img
                 data-nimg="responsive"
@@ -447,7 +467,7 @@ exports[`Playground Rendering should match snapshot if it is phone 1`] = `
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTkyMCIgdG89IjE5MjAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+); background-position: 0% 0%;"
               />
               <noscript />
-            </div>
+            </span>
           </div>
           <div
             class="_wf1nidpf _17q21h6o _1hd3kb7n _kcenkb7n _sipkidpf _1e0c1txw _2lx21bp4 _18u01l76 _3i5v1fo9 _8zxlgktf _u6ey9lop"

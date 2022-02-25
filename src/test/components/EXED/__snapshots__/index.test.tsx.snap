@@ -41,7 +41,7 @@ exports[`EXED Rendering should match snapshot 1`] = `
         <span
           class="body1"
         >
-          Assistant Manager, Full-stack Developer
+          Senior Software Engineer
         </span>
         <span
           class="fancy"
@@ -68,7 +68,7 @@ exports[`EXED Rendering should match snapshot 1`] = `
           <span
             class="body1"
           >
-            Prudential Life Assurance Public Company Ltd. (Thailand)
+            True Digital Group
           </span>
           <span
             class="fancy"
@@ -81,6 +81,115 @@ exports[`EXED Rendering should match snapshot 1`] = `
         >
           ._2lx21bp4{flex-direction:column}._1ipko7ao span{margin-top:15px}@media screen and (max-width:480px){._za9yo7ao{margin-top:15px}._17q2cvlb{text-align:justify}._15yx6vc6{white-space:pre-line}}
         </style>
+        <div
+          class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+        >
+          <span>
+            Being a Full-stack developer in the True Analytics department. Coding on React both JS and TS for frontend, and Golang for backend.
+          </span>
+          <span>
+            Implementing data visualization with a geographic web application based on React and DeckGL called GeoPulse. Working with data engineering on performing location-based insights about density, behavior, and culture of customers or more segments via big data.
+          </span>
+          <span>
+            Implementing data visualization with web application based on React and Echarts called DigiPulse which is the website to display the data-driven of customers in terms of data visualization.
+          </span>
+          <span>
+            Implementing a service for checking the capacity resources of the third-party application for sending SMS to customers. This service is called capacity checking, it is used to manage, book, and organize the Queue of the SMS campaign. Lastly, this application is based on Golang.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_19pk1ul9"
+    >
+      <div
+        class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#work"
+          />
+        </svg>
+        <span
+          class="body1"
+        >
+          Application Development Senior Analyst
+        </span>
+        <span
+          class="fancy"
+        >
+          (Oct 2021 - Nov 2021)
+        </span>
+      </div>
+      <div
+        class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+      >
+        <div
+          class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+        >
+          <span
+            class="body1"
+          >
+            Accenture
+          </span>
+          <span
+            class="fancy"
+          >
+            (Full-time)
+          </span>
+        </div>
+        <div
+          class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+        >
+          <span>
+            Working as a frontend engineer for the ATCT or Accenture Technology Center Thailand which is separate from Accenture Thailand. ATC is the technology center that is directed to Accenture Global and for the Thailand center, we are a part of the ATC in SEA. My responsibilities are to help the team build culture, standardize and provide the solution to solve the requirements, and also mentor the junior team members.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_19pk1ul9"
+    >
+      <div
+        class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#work"
+          />
+        </svg>
+        <span
+          class="body1"
+        >
+          Assistant Manager, Full-stack Developer
+        </span>
+        <span
+          class="fancy"
+        >
+          (Jan 2021 - Sep 2021)
+        </span>
+      </div>
+      <div
+        class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+      >
+        <div
+          class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+        >
+          <span
+            class="body1"
+          >
+            Prudential Life Assurance Public Company Ltd. (Thailand)
+          </span>
+          <span
+            class="fancy"
+          >
+            (Full-time)
+          </span>
+        </div>
         <div
           class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
         >

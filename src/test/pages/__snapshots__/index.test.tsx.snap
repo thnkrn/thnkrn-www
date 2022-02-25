@@ -13,10 +13,10 @@ exports[`Index Rendering should match snapshot 1`] = `
     <style
       data-cmpld="true"
     >
-      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}
+      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}}
     </style>
     <div
-      class="_1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
+      class="_46cc1bp4 _1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
     >
       <style
         data-cmpld="true"
@@ -35,10 +35,10 @@ exports[`Index Rendering should match snapshot 1`] = `
       <style
         data-cmpld="true"
       >
-        ._y3gnh9n0{text-align:end}
+        ._y3gnh9n0{text-align:end}@media screen and (max-width:480px){._za9y19bv{margin-top:10px}}
       </style>
       <div
-        class="_16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
+        class="_za9y19bv _16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
       >
         <style
           data-cmpld="true"
@@ -52,6 +52,16 @@ exports[`Index Rendering should match snapshot 1`] = `
             href="/"
           >
             Home
+          </a>
+        </span>
+         | 
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/Certifications"
+          >
+            Certifications
           </a>
         </span>
          | 
@@ -91,11 +101,11 @@ exports[`Index Rendering should match snapshot 1`] = `
       <div
         class="_18l8a4lr _1bsb1jyv _1e0c1txw _2lx21bp4 _hu4x1ssb"
       >
-        <div
-          style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+        <span
+          style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
         >
-          <div
-            style="display: block; box-sizing: border-box; padding-top: 100%;"
+          <span
+            style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 100% 0px 0px 0px;"
           />
           <img
             alt="Picture of thnkrn"
@@ -106,7 +116,7 @@ exports[`Index Rendering should match snapshot 1`] = `
             style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjEzODUiIGhlaWdodD0iMTM4NSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTM4NSIgdG89IjEzODUiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+); background-position: 0% 0%;"
           />
           <noscript />
-        </div>
+        </span>
         <style
           data-cmpld="true"
         >
@@ -169,7 +179,7 @@ exports[`Index Rendering should match snapshot 1`] = `
           <span
             class="_wf1nidpf _18u019bv italic2"
           >
-            Assistant Manager, Software Engineer
+            Software Engineer
           </span>
         </div>
       </div>
@@ -199,6 +209,11 @@ exports[`Index Rendering should match snapshot 1`] = `
           class="body2"
         >
           I'm a Software Engineer who passionate about web development or you can call me 'Webmaster' which is based on React ecosystem. I'm working on a fancy landing page, SEO, security, performance, DevOps, and followed by the optimization part that I'm mostly crazy about it. And now as a Fullstack Developer, I'm also working on the Backend stuff, and Database too.
+        </span>
+        <span
+          class="body2"
+        >
+          Futhermore, currently I'm coding on the Golang for create the backend stuff by using Rest API framework like Gin or Fiber by applying with clean architecture.
         </span>
         <span
           class="body2"
@@ -256,7 +271,7 @@ exports[`Index Rendering should match snapshot 1`] = `
           <span
             class="body1"
           >
-            Assistant Manager, Full-stack Developer
+            Senior Software Engineer
           </span>
           <span
             class="fancy"
@@ -283,7 +298,7 @@ exports[`Index Rendering should match snapshot 1`] = `
             <span
               class="body1"
             >
-              Prudential Life Assurance Public Company Ltd. (Thailand)
+              True Digital Group
             </span>
             <span
               class="fancy"
@@ -296,6 +311,115 @@ exports[`Index Rendering should match snapshot 1`] = `
           >
             ._1ipko7ao span{margin-top:15px}@media screen and (max-width:480px){._za9yo7ao{margin-top:15px}._17q2cvlb{text-align:justify}._15yx6vc6{white-space:pre-line}}
           </style>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              Being a Full-stack developer in the True Analytics department. Coding on React both JS and TS for frontend, and Golang for backend.
+            </span>
+            <span>
+              Implementing data visualization with a geographic web application based on React and DeckGL called GeoPulse. Working with data engineering on performing location-based insights about density, behavior, and culture of customers or more segments via big data.
+            </span>
+            <span>
+              Implementing data visualization with web application based on React and Echarts called DigiPulse which is the website to display the data-driven of customers in terms of data visualization.
+            </span>
+            <span>
+              Implementing a service for checking the capacity resources of the third-party application for sending SMS to customers. This service is called capacity checking, it is used to manage, book, and organize the Queue of the SMS campaign. Lastly, this application is based on Golang.
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="_19pk1ul9"
+      >
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#work"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            Application Development Senior Analyst
+          </span>
+          <span
+            class="fancy"
+          >
+            (Oct 2021 - Nov 2021)
+          </span>
+        </div>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Accenture
+            </span>
+            <span
+              class="fancy"
+            >
+              (Full-time)
+            </span>
+          </div>
+          <div
+            class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+          >
+            <span>
+              Working as a frontend engineer for the ATCT or Accenture Technology Center Thailand which is separate from Accenture Thailand. ATC is the technology center that is directed to Accenture Global and for the Thailand center, we are a part of the ATC in SEA. My responsibilities are to help the team build culture, standardize and provide the solution to solve the requirements, and also mentor the junior team members.
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="_19pk1ul9"
+      >
+        <div
+          class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+        >
+          <svg
+            class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+          >
+            <use
+              href="/icons/icons-sprite.svg#work"
+            />
+          </svg>
+          <span
+            class="body1"
+          >
+            Assistant Manager, Full-stack Developer
+          </span>
+          <span
+            class="fancy"
+          >
+            (Jan 2021 - Sep 2021)
+          </span>
+        </div>
+        <div
+          class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+        >
+          <div
+            class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+          >
+            <span
+              class="body1"
+            >
+              Prudential Life Assurance Public Company Ltd. (Thailand)
+            </span>
+            <span
+              class="fancy"
+            >
+              (Full-time)
+            </span>
+          </div>
           <div
             class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
           >

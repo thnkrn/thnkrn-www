@@ -13,10 +13,10 @@ exports[`Header Rendering should match snapshot 1`] = `
     <style
       data-cmpld="true"
     >
-      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}
+      ._1e0c1txw{display:flex}._4cvr1h6o{align-items:center}._4t3i1ylp{height:40px}._kqswh2mm{position:relative}._rfqo1r31 a:hover{-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor}._1bgkglyw a:hover{-webkit-text-decoration-line:none;text-decoration-line:none}._1t0pnqa1 a:hover{-webkit-text-decoration-style:solid;text-decoration-style:solid}@media screen and (max-width:480px){._46cc1bp4{flex-direction:column}}
     </style>
     <div
-      class="_1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
+      class="_46cc1bp4 _1e0c1txw _4cvr1h6o _4t3i1ylp _kqswh2mm _1pbykb7n _rfqo1r31 _1bgkglyw _1t0pnqa1"
     >
       <style
         data-cmpld="true"
@@ -35,10 +35,10 @@ exports[`Header Rendering should match snapshot 1`] = `
       <style
         data-cmpld="true"
       >
-        ._y3gnh9n0{text-align:end}
+        ._y3gnh9n0{text-align:end}@media screen and (max-width:480px){._za9y19bv{margin-top:10px}}
       </style>
       <div
-        class="_16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
+        class="_za9y19bv _16jlkb7n _1o9zkb7n _i0dlidpf _y3gnh9n0"
       >
         <style
           data-cmpld="true"
@@ -52,6 +52,16 @@ exports[`Header Rendering should match snapshot 1`] = `
             href="/"
           >
             Home
+          </a>
+        </span>
+         | 
+        <span
+          class="_oxk41mvx"
+        >
+          <a
+            href="/Certifications"
+          >
+            Certifications
           </a>
         </span>
          | 

@@ -31,6 +31,11 @@ exports[`Info Rendering should match snapshot 1`] = `
       <span
         class="body2"
       >
+        Futhermore, currently I'm coding on the Golang for create the backend stuff by using Rest API framework like Gin or Fiber by applying with clean architecture.
+      </span>
+      <span
+        class="body2"
+      >
         I'm paying attention the most to developer experience like writing clean, composable, and maintainable code as world-class products for both internal and external customers. Also, I really care about the processes, high quality of code and products, and aesthetics.
       </span>
       <span
