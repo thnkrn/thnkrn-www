@@ -39,7 +39,8 @@ const Info = () => (
         And now as a Fullstack Developer, I'm also working on the Backend stuff, and Database too.
       </span>
       <span className={TYPO.body2}>
-         Futhermore, currently I'm coding on the Golang for create the backend stuff by using Rest API framework like Gin or Fiber by applying with clean architecture.
+         Futhermore, currently I'm coding on the Golang for create the backend stuff by using Rest
+         API framework like Gin or Fiber by applying with clean architecture.
       </span>
       <span className={TYPO.body2}>
         I'm paying attention the most to developer experience like writing clean, composable, and
