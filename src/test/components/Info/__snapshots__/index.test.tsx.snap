@@ -26,12 +26,7 @@ exports[`Info Rendering should match snapshot 1`] = `
       <span
         class="body2"
       >
-        I'm a Software Engineer who passionate about web development or you can call me 'Webmaster' which is based on React ecosystem. I'm working on a fancy landing page, SEO, security, performance, DevOps, and followed by the optimization part that I'm mostly crazy about it. And now as a Fullstack Developer, I'm also working on the Backend stuff, and Database too.
-      </span>
-      <span
-        class="body2"
-      >
-        Futhermore, currently I'm coding on the Golang for create the backend stuff by using Rest API framework like Gin or Fiber by applying with clean architecture.
+        I'm a Software Engineer who is passionate about web development or you can call me 'Webmaster' which is based on React ecosystem. I'm working on a fancy landing page, SEO, security, performance, DevOps, followed by the optimization part that I'm most crazy about. And now as a Fullstack Developer, I'm coding on the Golang to create the backend enterprise graded stuff by using Rest API framework like Gin Gonic with Go wire for dependency injection by applying the structure with clean architecture.
       </span>
       <span
         class="body2"

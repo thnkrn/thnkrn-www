@@ -14,7 +14,11 @@ interface Props {
 
 const StyledContainer = styled.div`
   margin: auto;
-  width: 85%;
+  width: 70%;
+
+  @media screen and (max-width: 480px) {
+    width: 85%;
+  }
 `
 
 const Layout = ({
