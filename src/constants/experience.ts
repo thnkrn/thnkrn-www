@@ -6,6 +6,7 @@ export const EXPERIENCE = [
     type: '(Full-time)',
     desc: [
       `Being a Full-stack developer in the True Analytics department. Coding on React both JS and TS for frontend, and Golang for backend.`,
+      `Designing and defining the application architecture and flow of the business process. Also, having a chance to be scrum master to help the team growing, getting more positive and experience, creating high-value increments, and ensuring that all business requirements take place and are positive, productive, and kept within the timeframe.`,
       `Implementing data visualization with a geographic web application based on React and DeckGL called GeoPulse. Working with data engineering on performing location-based insights about density, behavior, and culture of customers or more segments via big data.`,
       `Implementing data visualization with web application based on React and Echarts called DigiPulse which is the website to display the data-driven of customers in terms of data visualization.`,
       `Implementing a service for checking the capacity resources of the third-party application for sending SMS to customers. This service is called capacity checking, it is used to manage, book, and organize the Queue of the SMS campaign. Lastly, this application is based on Golang.`,
