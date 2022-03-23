@@ -12,7 +12,7 @@ export const EXPERIENCE = [
     ],
   },
   {
-    title: 'Application Development Senior Analyst',
+    title: 'Application Development Specialist',
     duration: '(Oct 2021 - Nov 2021)',
     location: 'Accenture',
     type: '(Full-time)',
