@@ -8,7 +8,7 @@ exports[`ImageStaticSite Rendering should match snapshot 1`] = `
     ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._1bsb1n8h{width:70%}@media screen and (max-width:480px){._18l813sl{width:85%}}
   </style>
   <div
-    class="_19pk1wug _2hwx1wug _otyr1wug _18u01wug _1bsb1n8h _18l813sl"
+    class="_18l813sl _19pk1wug _2hwx1wug _otyr1wug _18u01wug _1bsb1n8h"
   >
     <h1
       class="h1"
