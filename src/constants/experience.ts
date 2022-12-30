@@ -6,10 +6,11 @@ export const EXPERIENCE = [
     type: '(Full-time)',
     desc: [
       `Being a Full-stack developer in the True Analytics department. Coding on React both JS and TS for frontend, and Golang for backend.`,
-      `Designing and defining the application architecture and flow of the business process. Also, having a chance to be scrum master to help the team growing, getting more positive and experience, creating high-value increments, and ensuring that all business requirements take place and are positive, productive, and kept within the timeframe.`,
-      `Implementing data visualization with a geographic web application based on React and DeckGL called GeoPulse. Working with data engineering on performing location-based insights about density, behavior, and culture of customers or more segments via big data.`,
-      `Implementing data visualization with web application based on React and Echarts called DigiPulse which is the website to display the data-driven of customers in terms of data visualization.`,
-      `Implementing a service for checking the capacity resources of the third-party application for sending SMS to customers. This service is called capacity checking, it is used to manage, book, and organize the Queue of the SMS campaign. Lastly, this application is based on Golang.`,
+      `Creating and defining the application architecture and business process flow. Giving a solution and an idea for meeting the needs of the customer and improving the application's potential. Putting the application and service in place to help both internal and external customers.`,
+      `Leading the team in the development of an end-to-end process based on the enterprise-grade service "Comet" with Golang and Gin framework which is a generalized key-value REST service built on top of RocksDB databases. It is intended as a low-cost and simple KV datastore for applications that serve a few terabytes of data but cannot fit them all in Redis RAM or do not require a full database cluster and its associated costs.`,
+      `Implementing a service to manage the internal application's capacity resources for sending SMS to customers. This service is known as a resource center, and it allows you to list, book, and organize the SMS campaign Queue. Finally, this application is built with Golang and the Gin framework.`,
+      `Developing data visualization called GeoPulse, a geographic web application built with React and DeckGL. Working with data engineering to perform location-based insights about customer density, behavior, and culture using big data.`,
+      `Working on data visualization called DigiPulse, a web application based on React and Echarts that displays the data-driven of customers in terms of data visualization.`,
     ],
   },
   {
@@ -18,7 +19,9 @@ export const EXPERIENCE = [
     location: 'Accenture',
     type: '(Full-time)',
     desc: [
-      `Working as a frontend engineer for the ATCT or Accenture Technology Center Thailand which is separate from Accenture Thailand. ATC is the technology center that is directed to Accenture Global and for the Thailand center, we are a part of the ATC in SEA. My responsibilities are to help the team build culture, standardize and provide the solution to solve the requirements, and also mentor the junior team members.`,
+      `Working as a frontend engineer for the ATCT or Accenture Technology Center Thailand which is separate from Accenture Thailand. ATC is the technology center that is directed to Accenture Global and for the Thailand center, we are a part of the ATC in SEA.`,
+      `I had assigned to be a technical leader of one of the front-end teams which performed the micro front-end service by using Next.JS as a framework to create the B2B website for the client.`,
+      `My responsibilities are to help the team build culture, standardize and provide the solution to solve the requirements, and also mentor the junior team members.`,
     ],
   },
   {
@@ -65,15 +68,6 @@ export const EXPERIENCE = [
       `First, I used the Amazon Web Service for Rekognition in order to compare selfie face with the picture in ID card of the customer, the app will return the similarity score for above 90 percent, below that its mean not match. I used Node.JS to create this back-end function and warp with the Express.JS after that send it to the cloud function for using in the application via Heroku.`,
       `Next function, the app will collect the information of customer from ID card by using the OCR function in order to reduce the processing time for users. I used the Google Vision to set the size of the ID card and the boxes of each field to collect all of the user's information.`,
       `Followed by the last function, the app will send the user's information to the Revenue Department of Thailand to check the validity of ID card. The result will return in the status of death, loss, or valid/invalid of the card. This application help the company a lot for cleansing the invalid data because the company had a million user data.`,
-    ],
-  },
-  {
-    title: 'Full-stack Developer',
-    duration: '(Jun 2017 – Sep 2018)',
-    location: 'Fastwork Technologies Co., Ltd.',
-    type: '(Freelance)',
-    desc: [
-      `Working as a freelance developer via studying at the university for developing mobile or web application, mostly focusing on Front-end stuff`,
     ],
   },
 ]

@@ -33,12 +33,10 @@ const Info = () => (
         Cheers,
       </span>
       <span className={TYPO.body2}>
-        I'm a Software Engineer who is passionate about web development or you can call me
-        'Webmaster' which is based on React ecosystem. I'm working on a fancy landing page, SEO,
-        security, performance, DevOps, followed by the optimization part that I'm most crazy about.
-        And now as a Fullstack Developer, I'm coding on the Golang to create the backend enterprise
-        graded stuff by using Rest API framework like Gin Gonic with Go wire for dependency
-        injection by applying the structure with clean architecture.
+        I'm a Software Engineer who works as a full-stack developer. I'm passionate about web
+        development based on React ecosystem and have a deep love for the NextJS framework.
+        Furthermore, I'm coding on the Golang to create the backend enterprise-grade system by
+        applying clean architecture.
       </span>
       <span className={TYPO.body2}>
         I'm paying attention the most to developer experience like writing clean, composable, and
