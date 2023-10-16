@@ -1,16 +1,26 @@
 export const EXPERIENCE = [
   {
     title: 'Senior Software Engineer',
-    duration: '(Jan 2021 - Present)',
-    location: 'True Digital Group',
-    type: '(Full-time)',
+    duration: '(Aug 2023 - Present)',
+    location: 'Pi Securities Public Company Limited',
+    type: '(Full-time) · Remote',
     desc: [
-      `Being a Full-stack developer in the True Analytics department. Coding on React both JS and TS for frontend, and Golang for backend.`,
+      `Leading the team to design and develop a back-office website to support multiple purposes for both internal and external customers like operation, finance, or report generation by using the NextJS framework with TRPC`,
+    ],
+  },
+  {
+    title: 'Senior Software Engineer',
+    duration: '(Jan 2021 - Jul 2023)',
+    location: 'True Digital Group',
+    type: '(Full-time) · Remote',
+    desc: [
+      `Being a Full-stack developer in the True Analytics department. Coding on React both JS and TS for the front end, and Golang for the back end.`,
       `Creating and defining the application architecture and business process flow. Giving a solution and an idea for meeting the needs of the customer and improving the application's potential. Putting the application and service in place to help both internal and external customers.`,
       `Leading the team in the development of an end-to-end process based on the enterprise-grade service "Comet" with Golang and Gin framework which is a generalized key-value REST service built on top of RocksDB databases. It is intended as a low-cost and simple KV datastore for applications that serve a few terabytes of data but cannot fit them all in Redis RAM or do not require a full database cluster and its associated costs.`,
+      `Developing back office report website, called Post Campaign report. It is a web application created with NextJS and based on React Typescript and Echarts. This application visualizes data through charts and graphs and generates reports for users.`,
       `Implementing a service to manage the internal application's capacity resources for sending SMS to customers. This service is known as a resource center, and it allows you to list, book, and organize the SMS campaign Queue. Finally, this application is built with Golang and the Gin framework.`,
-      `Developing data visualization called GeoPulse, a geographic web application built with React and DeckGL. Working with data engineering to perform location-based insights about customer density, behavior, and culture using big data.`,
-      `Working on data visualization called DigiPulse, a web application based on React and Echarts that displays the data-driven of customers in terms of data visualization.`,
+      `Leading the team in the development of an end-to-end process based on the enterprise-grade service "Comet" with Golang and Gin framework which is a generalized key-value REST service built on top of RocksDB databases. It is intended as a low-cost and simple KV datastore for applications that serve a few terabytes of data but cannot fit them all in Redis RAM or do not require a full database cluster and its associated costs.`,
+      `Implementing a service to manage the internal application's capacity resources for sending SMS to customers. This service, known as a resource center, allows you to list, book, and organize the SMS campaign Queue. Finally, this application is built with Golang and the Gin framework.`,
     ],
   },
   {

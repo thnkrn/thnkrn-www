@@ -5,10 +5,10 @@ exports[`LazyloadContent Functional should match snapshot when click on show con
   <style
     data-cmpld="true"
   >
-    ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._1bsb1n8h{width:70%}@media screen and (max-width:480px){._18l813sl{width:85%}}
+    ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._1bsb1nrf{width:60%}@media screen and (max-width:480px){._18l813sl{width:85%}}
   </style>
   <div
-    class="_18l813sl _19pk1wug _2hwx1wug _otyr1wug _18u01wug _1bsb1n8h"
+    class="_18l813sl _19pk1wug _2hwx1wug _otyr1wug _18u01wug _1bsb1nrf"
   >
     <h1
       class="h1"
@@ -30,10 +30,10 @@ exports[`LazyloadContent Rendering should match snapshot 1`] = `
   <style
     data-cmpld="true"
   >
-    ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._1bsb1n8h{width:70%}@media screen and (max-width:480px){._18l813sl{width:85%}}
+    ._19pk1wug{margin-top:auto}._2hwx1wug{margin-right:auto}._otyr1wug{margin-bottom:auto}._18u01wug{margin-left:auto}._1bsb1nrf{width:60%}@media screen and (max-width:480px){._18l813sl{width:85%}}
   </style>
   <div
-    class="_18l813sl _19pk1wug _2hwx1wug _otyr1wug _18u01wug _1bsb1n8h"
+    class="_18l813sl _19pk1wug _2hwx1wug _otyr1wug _18u01wug _1bsb1nrf"
   >
     <h1
       class="h1"

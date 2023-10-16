@@ -18,7 +18,7 @@ const StyledContainer = styled.div`
   }
 
   margin: auto;
-  width: 70%;
+  width: 60%;
 `
 
 const Layout = ({
