@@ -46,7 +46,7 @@ exports[`EXED Rendering should match snapshot 1`] = `
         <span
           class="fancy"
         >
-          (Jan 2021 - Present)
+          (Aug 2023 - Present)
         </span>
       </div>
       <style
@@ -68,12 +68,12 @@ exports[`EXED Rendering should match snapshot 1`] = `
           <span
             class="body1"
           >
-            True Digital Group
+            Pi Securities Public Company Limited
           </span>
           <span
             class="fancy"
           >
-            (Full-time)
+            (Full-time) · Remote
           </span>
         </div>
         <style
@@ -85,7 +85,57 @@ exports[`EXED Rendering should match snapshot 1`] = `
           class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
         >
           <span>
-            Being a Full-stack developer in the True Analytics department. Coding on React both JS and TS for frontend, and Golang for backend.
+            Leading the team to design and develop a back-office website to support multiple purposes for both internal and external customers like operation, finance, or report generation by using the NextJS framework with TRPC
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="_19pk1ul9"
+    >
+      <div
+        class="_46cc1bp4 _1rkf1h6o _17q21h6o _50uugrf3 _1e0c1txw _4cvr1h6o _1w2uo7ao _zwmc13v7 _hdg014y2"
+      >
+        <svg
+          class="_1bsb1tcg _4t3i1tcg _tzy4idpf _18t5kb7n icon loaded"
+        >
+          <use
+            href="/icons/icons-sprite.svg#work"
+          />
+        </svg>
+        <span
+          class="body1"
+        >
+          Senior Software Engineer
+        </span>
+        <span
+          class="fancy"
+        >
+          (Jan 2021 - Jul 2023)
+        </span>
+      </div>
+      <div
+        class="_za9ygrf3 _99s2grf3 _183zgrf3 _wf1ngrf3 _19pko7ao _2hwxidpf _otyridpf _18u010mc"
+      >
+        <div
+          class="_ygwp1txw _46cc1bp4 _1rkf1h6o _17q21h6o _za9yo7ao _1uw3grf3 _rd6q1fo9 _1qhuo7ao _zwmc13v7"
+        >
+          <span
+            class="body1"
+          >
+            True Digital Group
+          </span>
+          <span
+            class="fancy"
+          >
+            (Full-time) · Remote
+          </span>
+        </div>
+        <div
+          class="_za9yo7ao _17q2cvlb _15yx6vc6 _1e0c1txw _2lx21bp4 _1ipko7ao body2"
+        >
+          <span>
+            Being a Full-stack developer in the True Analytics department. Coding on React both JS and TS for the front end, and Golang for the back end.
           </span>
           <span>
             Creating and defining the application architecture and business process flow. Giving a solution and an idea for meeting the needs of the customer and improving the application's potential. Putting the application and service in place to help both internal and external customers.
@@ -94,13 +144,16 @@ exports[`EXED Rendering should match snapshot 1`] = `
             Leading the team in the development of an end-to-end process based on the enterprise-grade service "Comet" with Golang and Gin framework which is a generalized key-value REST service built on top of RocksDB databases. It is intended as a low-cost and simple KV datastore for applications that serve a few terabytes of data but cannot fit them all in Redis RAM or do not require a full database cluster and its associated costs.
           </span>
           <span>
+            Developing back office report website, called Post Campaign report. It is a web application created with NextJS and based on React Typescript and Echarts. This application visualizes data through charts and graphs and generates reports for users.
+          </span>
+          <span>
             Implementing a service to manage the internal application's capacity resources for sending SMS to customers. This service is known as a resource center, and it allows you to list, book, and organize the SMS campaign Queue. Finally, this application is built with Golang and the Gin framework.
           </span>
           <span>
-            Developing data visualization called GeoPulse, a geographic web application built with React and DeckGL. Working with data engineering to perform location-based insights about customer density, behavior, and culture using big data.
+            Leading the team in the development of an end-to-end process based on the enterprise-grade service "Comet" with Golang and Gin framework which is a generalized key-value REST service built on top of RocksDB databases. It is intended as a low-cost and simple KV datastore for applications that serve a few terabytes of data but cannot fit them all in Redis RAM or do not require a full database cluster and its associated costs.
           </span>
           <span>
-            Working on data visualization called DigiPulse, a web application based on React and Echarts that displays the data-driven of customers in terms of data visualization.
+            Implementing a service to manage the internal application's capacity resources for sending SMS to customers. This service, known as a resource center, allows you to list, book, and organize the SMS campaign Queue. Finally, this application is built with Golang and the Gin framework.
           </span>
         </div>
       </div>
