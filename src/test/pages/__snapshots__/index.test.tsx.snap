@@ -96,16 +96,16 @@ exports[`Index Rendering should match snapshot 1`] = `
       <style
         data-cmpld="true"
       >
-        ._1bsb1jyv{width:25vw}._2lx21bp4{flex-direction:column}._hu4x1ssb .image{border-radius:50%}@media screen and (max-width:480px){._18l8a4lr{width:50vw}}
+        ._1bsb1jyv{width:25vw}._2lx21bp4{flex-direction:column}._hu4x1wqb .image{border-radius:60px}@media screen and (max-width:480px){._18l8a4lr{width:50vw}}
       </style>
       <div
-        class="_18l8a4lr _1bsb1jyv _1e0c1txw _2lx21bp4 _hu4x1ssb"
+        class="_18l8a4lr _1bsb1jyv _1e0c1txw _2lx21bp4 _hu4x1wqb"
       >
         <span
           style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
         >
           <span
-            style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 100% 0px 0px 0px;"
+            style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 136.03515625% 0px 0px 0px;"
           />
           <img
             alt="Picture of thnkrn"
@@ -113,7 +113,7 @@ exports[`Index Rendering should match snapshot 1`] = `
             data-nimg="responsive"
             decoding="async"
             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-            style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjEzODUiIGhlaWdodD0iMTM4NSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTM4NSIgaGVpZ2h0PSIxMzg1IiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTM4NSIgdG89IjEzODUiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+); background-position: 0% 0%;"
+            style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; filter: blur(20px); background-size: cover; background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjEwMjQiIGhlaWdodD0iMTM5MyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyI+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiMzMzMiIG9mZnNldD0iMjAlIiAvPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjMjIyIiBvZmZzZXQ9IjUwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzMzMyIgb2Zmc2V0PSI3MCUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMzkzIiBmaWxsPSIjMzMzIiAvPgogIDxyZWN0IGlkPSJyIiB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMzkzIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItMTAyNCIgdG89IjEwMjQiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAgLz4KPC9zdmc+); background-position: 0% 0%;"
           />
           <noscript />
         </span>
