@@ -39,7 +39,7 @@ const StyledProfileImage = styled.div`
   flex-direction: column;
 
   .image {
-    border-radius: 50%;
+    border-radius: 60px;
   }
 `
 
@@ -81,7 +81,7 @@ const StyledPositionTitle = styled.span`
 `
 
 const Banner = ({ isPhone }: Props) => {
-  const shimmer = useShimmer(1385, 1385)
+  const shimmer = useShimmer(1024, 1393)
 
   return (
     <StyledProfileWrapper>
@@ -90,8 +90,8 @@ const Banner = ({ isPhone }: Props) => {
           className="image"
           src="/images/profile.jpeg"
           alt="Picture of thnkrn"
-          width={1385}
-          height={1385}
+          width={1024}
+          height={1393}
           sizes={isPhone ? '50vw' : '25vw'}
           layout="responsive"
           quality="100"
@@ -109,9 +109,7 @@ const Banner = ({ isPhone }: Props) => {
         <span className={TYPO.body1}>Hi, I'm</span>
         <h1 className={TYPO.h1}>Thanakorn Ariyagusolsuthi</h1>
         <StyledPosition>
-          <StyledPositionTitle className={TYPO.italic2}>
-            Software Engineer
-          </StyledPositionTitle>
+          <StyledPositionTitle className={TYPO.italic2}>Software Engineer</StyledPositionTitle>
         </StyledPosition>
       </StyledTextWrapper>
     </StyledProfileWrapper>
